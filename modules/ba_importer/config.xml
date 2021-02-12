@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ba_importer</name>
+    <displayName><![CDATA[Prestashop Importer - import product from csv, xls, xlsx]]></displayName>
+    <version><![CDATA[1.1.4]]></version>
+    <description><![CDATA[Author: buy-addons]]></description>
+    <author><![CDATA[buy-addons]]></author>
+    <tab><![CDATA[quick_bulk_update]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

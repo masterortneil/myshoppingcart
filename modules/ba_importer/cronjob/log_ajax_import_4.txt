@@ -1,0 +1,37 @@
+2020-12-04 12:31:14 - Sinoprima
+Product ID - 120987
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 120988
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 120990
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 120991
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished

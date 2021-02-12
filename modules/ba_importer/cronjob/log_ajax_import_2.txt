@@ -1,0 +1,146 @@
+2020-10-22 11:56:25 - Calasca images
+Product ID - 101208
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 101045
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 101407
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 101409
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 101410
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 101411
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 102697
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 102698
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 102699
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 102700
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 100874
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 102689
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Product ID - 100566
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Product ID - 100566
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Update Addtion Image...finished
+Product ID - 102688
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Product ID - 102688
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Main Image...finished
+Update Addtion Image...finished
+Update Addtion Image...finished
+finished

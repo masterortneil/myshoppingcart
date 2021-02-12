@@ -1,0 +1,9 @@
+2020-03-27 08:02:12 - Setting 1
+Product ID - 1
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished

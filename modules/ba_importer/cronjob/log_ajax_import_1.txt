@@ -1,0 +1,166 @@
+2021-02-10 10:56:59 - Setting 1
+Insert product...finished
+Product ID - 43
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 44
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 45
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 46
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 47
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 48
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 49
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 50
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 51
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 52
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 53
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 54
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 55
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 56
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished
+Insert product...finished
+Product ID - 57
+Insert product_shop...finished
+Insert Stock Available...finished
+Insert product_lang...finished
+Update Delivery Time...finished
+Insert Main category...finished
+Insert Category associated...finished
+Insert Category associated ID...finished
+Insert Main Image...finished
+Insert Addtion Image...finished

@@ -1,0 +1,136 @@
+2021-02-04 14:45:55 - BERNICE
+Product ID - 15
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 17
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 21
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 29
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 41
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 45
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 6153
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 6255
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 8150
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 8287
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 20408
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 133380
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 135555
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 137040
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished
+Product ID - 137295
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update combination BIE...finished

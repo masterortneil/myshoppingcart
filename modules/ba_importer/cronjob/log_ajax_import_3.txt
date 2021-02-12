@@ -1,0 +1,11 @@
+2020-11-10 16:30:10 - Richard
+Product ID - 90600
+Update product...finished
+Update product_shop...finished
+Update product_lang...finished
+Update Delivery Time...finished
+Update ID category default Product...finished
+Update Category associated...finished
+Update Category associated ID...finished
+Update Addtion Image...finished
+Update Supplier...finished

@@ -1,0 +1,779 @@
+Model,Description,Long Description, price 
+UB-AF 5G23 S45,"Ubiquiti airFiber X Antenna 5GHz, 23dBi Slant 45","Ubiquiti airFiber X Antenna 5GHz, 23dBi Slant 45","1,550.00"
+UB-AF 5G30 S45,"Ubiquiti airFiber X Antenna 5GHz, 30dBi Slant 45","Ubiquiti airFiber X Antenna 5GHz, 30dBi Slant 45","2,063.06"
+UB-AF 5XHD EU,Ubiquiti airFiber 5XHD,Ubiquiti airFiber 5XHD,"5,939.00"
+UB-AM 5G20 90,"Ubiquiti 5 GHz airMAX 20 dBi, 90º BaseStation Sector Antenna","Ubiquiti 5 GHz airMAX 20 dBi, 90º BaseStation Sector Antenna","2,050.00"
+UB-ER 12P EU,Ubiquiti EdgeRouter 12P,Ubiquiti EdgeRouter 12P,"5,540.14"
+UB-ER RMKIT,Ubiquiti EdgeMAX Universal Rack-mount Kit,Ubiquiti EdgeMAX Universal Rack-mount Kit,245
+UB-ER X EU,Ubiquiti EdgeRouter X,Ubiquiti EdgeRouter X,858
+UB-ES 10XP 3 PACK,"Ubiquiti EdgeSwitch 10XP, 3 Pack","Ubiquiti EdgeSwitch 10XP, 3 Pack","2,202.00"
+UB-ES 16 150W,Ubiquiti EdgeSwitch 16 (150W),Ubiquiti EdgeSwitch 16 (150W),"3,518.00"
+UB-ES 8 150W,Ubiquiti EdgeSwitch 8 150W,Ubiquiti EdgeSwitch 8 150W,"3,518.00"
+UB-ETH SP G2,Ubiquiti Ethernet Surge Protector,Ubiquiti Ethernet Surge Protector,210
+UB-F POE G2,Ubiquiti Optical Data Transport for Outdoor POE Devices,Ubiquiti Optical Data Transport for Outdoor POE Devices,495
+UB-LAP 120 EU,Ubiquiti LiteBeam 5AC AP,Ubiquiti LiteBeam 5AC AP,"1,450.00"
+UB-LBE 5AC GEN2,Ubiquiti LiteBeam 5AC Gen2,Ubiquiti LiteBeam 5AC Gen2,"1,135.84"
+UB-LBE M5 23,Ubiquiti LiteBeam M5,Ubiquiti LiteBeam M5,795
+UB-LOCOM2,Ubiquiti NanoStation Loco M2,Ubiquiti NanoStation Loco M2,795
+UB-NBE 5AC GEN2,Ubiquiti NanoBeam 5AC Gen2,Ubiquiti NanoBeam 5AC Gen2,"1,605.00"
+UB-NBE M5 16,Ubiquiti NanoBeam M5 16,Ubiquiti NanoBeam M5 16,"1,095.00"
+UB-NSM5,Ubiquiti NanoStation M5,Ubiquiti NanoStation M5,"1,425.00"
+UB-PBE 5AC GEN2,Ubiquiti PowerBeam 5AC Gen2,Ubiquiti PowerBeam 5AC Gen2,"1,875.00"
+UB-PBE M5 400,Ubiquiti PowerBeam M5 400,Ubiquiti PowerBeam M5 400,"1,576.27"
+UB-POE 24 12W G,"Ubiquiti PoE Injector, 24VDC, 12W, Gbit","Ubiquiti PoE Injector, 24VDC, 12W, Gbit",178
+UB-POE 24 24W G,"Ubiquiti PoE Injector, 24VDC, 24W, Gbit","Ubiquiti PoE Injector, 24VDC, 24W, Gbit",242
+UB-POE 24 7W G WH,"Ubiquiti 24v PoE Injector, .3A, Gigabit, white","Ubiquiti 24v PoE Injector, .3A, Gigabit, white",90
+UB-R5AC LITE,Ubiquiti Rocket 5AC Lite,Ubiquiti Rocket 5AC Lite,"2,175.00"
+UB-RP 5AC GEN2,Ubiquiti Rocket 5AC Prism Gen2,Ubiquiti Rocket 5AC Prism Gen2,"4,218.85"
+UB-U POE AF,Ubiquiti POE Injector 802.3af,Ubiquiti POE Injector 802.3af,139.08
+UB-UAP AC LITE,Ubiquiti UniFi AC Lite,Ubiquiti UniFi AC Lite,"1,429.00"
+UB-UAP AC LITE 5 PACK,"Ubiquiti UniFi AC Lite, 5 Pack","Ubiquiti UniFi AC Lite, 5 Pack","6,485.00"
+UB-UAP AC LR,Ubiquiti UniFi AC LR,Ubiquiti UniFi AC LR,"1,759.00"
+UB-UAP AC LR 5 PACK,Ubiquiti UniFi AC LR 5-Pack,Ubiquiti UniFi AC LR 5-Pack,"8,044.00"
+UB-UAP AC HD,"Ubiquiti UniFi HD Wi-Fi Access Point, Indoor/Outdoor, 802.11","Ubiquiti UniFi HD Wi-Fi Access Point, Indoor/Outdoor, 802.11","5,430.00"
+UB-UAP AC HD 5 PACK,"Ubiquiti UniFi HD Wi-Fi Access Point, Indoor/Outdoor, 802.12, 5 Pack","Ubiquiti UniFi HD Wi-Fi Access Point, Indoor/Outdoor, 802.12, 5 Pack","26,271.00"
+UB-UAP AC M,Ubiquiti UniFi AC Mesh AP,Ubiquiti UniFi AC Mesh AP,"1,605.00"
+UB-UAP AC M PRO,Ubiquiti UniFi AC Mesh Pro AP Beta,Ubiquiti UniFi AC Mesh Pro AP Beta,"3,195.00"
+UB-UAP AC PRO,Ubiquiti UniFi AC Pro,Ubiquiti UniFi AC Pro,"2,495.00"
+UB-UAP AC PRO 3 PACK,"Ubiquiti UniFi AC Pro, 3 Pack","Ubiquiti UniFi AC Pro, 3 Pack","6,859.00"
+UB-UAP AC PRO 5 PACK,"Ubiquiti UniFi AC Pro, 5 Pack","Ubiquiti UniFi AC Pro, 5 Pack","12,054.00"
+UB-UF MM 1G 2 PACK,"Ubiquiti SFP Modules Multimode 1G, 2 Pack","Ubiquiti SFP Modules Multimode 1G, 2 Pack",295
+UB-UF MM 10G 20 PACK,"Ubiquiti U Fiber SFP+ (10Gbps) Modules, Multi-Mode Fiber, 20 Pack","Ubiquiti U Fiber SFP+ (10Gbps) Modules, Multi-Mode Fiber, 20 Pack","6,332.00"
+UB-UF SM 1G S 2 PACK,"Ubiquiti SFP Modules Single Mode 1G, 2 Pack","Ubiquiti SFP Modules Single Mode 1G, 2 Pack",415
+UB-UF SM 10G 20 PACK,"Ubiquiti U Fiber SFP+ (10Gbps) Modules, Single-Mode Fiber, 20 Pack","Ubiquiti U Fiber SFP+ (10Gbps) Modules, Single-Mode Fiber, 20 Pack","14,246.00"
+UB-US 8 60W,"Ubiquiti UniFi Enterprise System, Managed Switch, 8xGb/Eth,","Ubiquiti UniFi Enterprise System, Managed Switch, 8xGb/Eth,","1,979.00"
+UB-US 16 150W,Ubiquiti UniFi Switch 16 (150W),Ubiquiti UniFi Switch 16 (150W),"5,166.00"
+UB-US 24 250W,Ubiquiti UniFi Switch 24 (250W),Ubiquiti UniFi Switch 24 (250W),"6,995.00"
+UB-US 48 500W,Ubiquiti UniFi Switch 48 (500W),Ubiquiti UniFi Switch 48 (500W),"13,837.00"
+UB-USG,Ubiquiti UniFi Security Gateway,Ubiquiti UniFi Security Gateway,"1,957.00"
+UB-USG PRO 4,Ubiquiti UniFi Security Gateway Pro,Ubiquiti UniFi Security Gateway Pro,"4,795.00"
+UB-UVC G3 BULLET,Ubiquiti UniFi Video Camera G3 Bullet,Ubiquiti UniFi Video Camera G3 Bullet,"2,650.00"
+UB-UVC G3 DOME,Ubiquiti UniFi Video Camera G3 Dome,Ubiquiti UniFi Video Camera G3 Dome,"2,650.00"
+UB-UCK G2 PLUS,"Ubiquiti UniFi Cloud Key Gen2 Plus, UniFi Network Controller","Ubiquiti UniFi Cloud Key Gen2 Plus, UniFi Network Controller","3,518.00"
+UB-UCK G2,"Ubiquiti UniFi Cloud Key Gen2, UniFi Network Controller","Ubiquiti UniFi Cloud Key Gen2, UniFi Network Controller","3,144.00"
+2N-9155101C,2N® Helios IP Verso - Main unit with camera,2N® Helios IP Verso - Main unit with camera,"14,817.00"
+2N-9155022,"2N® Helios IP Verso - Frame for surface installation, 2 modules","2N® Helios IP Verso - Frame for surface installation, 2 modules","1,030.00"
+2N-9155062,2N® Helios IP Verso - backplate for 2 modules,2N® Helios IP Verso - backplate for 2 modules,"1,091.00"
+2N-9155101,2N® Helios IP Verso - Main unit without camera,2N® Helios IP Verso - Main unit without camera,"7,878.00"
+2N-9155022,"2N® Helios IP Verso - Frame for surface installation, 2 modules","2N® Helios IP Verso - Frame for surface installation, 2 modules","1,030.00"
+2N-9155062,2N® Helios IP Verso - backplate for 2 modules,2N® Helios IP Verso - backplate for 2 modules,"1,091.00"
+2N-9155401C-E,"2N® LTE Verso - Main unit with camera, nickel, EU LTE","2N® LTE Verso - Main unit with camera, nickel, EU LTE","17,392.00"
+2N-9155022,"2N® Helios IP Verso - Frame for surface installation, 2 modules","2N® Helios IP Verso - Frame for surface installation, 2 modules","1,030.00"
+2N-9155062,2N® Helios IP Verso - backplate for 2 modules,2N® Helios IP Verso - backplate for 2 modules,"1,091.00"
+2N-9155101C,2N® Helios IP Verso - Main unit with camera,2N® Helios IP Verso - Main unit with camera,"14,817.00"
+2N-9155012,"2N® Helios IP Verso - Frame for flush installation, 2 modules (must be together with 9155015)","2N® Helios IP Verso - Frame for flush installation, 2 modules (must be together with 9155015)","1,454.00"
+2N-9155015,"2N® Helios IP Verso - Box for  flush installation, 2 modules (must be together with 9155012)","2N® Helios IP Verso - Box for  flush installation, 2 modules (must be together with 9155012)",545
+2N-9155101,2N® Helios IP Verso - Main unit without camera,2N® Helios IP Verso - Main unit without camera,"7,878.00"
+2N-9155012,"2N® Helios IP Verso - Frame for flush installation, 2 modules (must be together with 9155015)","2N® Helios IP Verso - Frame for flush installation, 2 modules (must be together with 9155015)","1,454.00"
+2N-9155015,"2N® Helios IP Verso - Box for  flush installation, 2 modules (must be together with 9155012)","2N® Helios IP Verso - Box for  flush installation, 2 modules (must be together with 9155012)",545
+2N-9155401C-E,"2N® LTE Verso - Main unit with camera, nickel, EU LTE","2N® LTE Verso - Main unit with camera, nickel, EU LTE","17,392.00"
+2N-9155012,"2N® Helios IP Verso - Frame for flush installation, 2 modules (must be together with 9155015)","2N® Helios IP Verso - Frame for flush installation, 2 modules (must be together with 9155015)","1,454.00"
+2N-9155015,"2N® Helios IP Verso - Box for  flush installation, 2 modules (must be together with 9155012)","2N® Helios IP Verso - Box for  flush installation, 2 modules (must be together with 9155012)",545
+2N-9155036,2N® Helios IP Verso - Touch display module,2N® Helios IP Verso - Touch display module,"12,181.00"
+2N-9155045,2N® Helios IP Verso - Fingerprint reader (external fingerprint reader = 9137423E needed for installation),2N® Helios IP Verso - Fingerprint reader (external fingerprint reader = 9137423E needed for installation),"8,484.00"
+2N-9155046,2N® Helios IP Verso - Bluetooth module,2N® Helios IP Verso - Bluetooth module,"4,606.00"
+2N-9155035,2N® Helios IP Verso - 5 buttons module,2N® Helios IP Verso - 5 buttons module,"1,636.00"
+2N-9155031,2N® Helios IP Verso - Keypad module,2N® Helios IP Verso - Keypad module,"3,818.00"
+2N-9155031B,2N® Helios IP Verso - Keypad module - black,2N® Helios IP Verso - Keypad module - black,"3,818.00"
+2N-9155030,2N® Helios IP Verso - Infopanel,2N® Helios IP Verso - Infopanel,"1,485.00"
+2N-9155032,2N® Helios IP Verso - 125kHz RFID card reader,2N® Helios IP Verso - 125kHz RFID card reader,"2,121.00"
+2N-9155040,2N® Helios IP Verso - 13.56MHz smart card RFID reader NFC ready ,2N® Helios IP Verso - 13.56MHz smart card RFID reader NFC ready ,"3,303.00"
+2N-9155041,2N® Helios IP Verso - Induction loop,2N® Helios IP Verso - Induction loop,"3,212.00"
+2N-9155044,2N® Helios IP Verso - Vigik module,2N® Helios IP Verso - Vigik module,"3,878.00"
+2N-9155034,2N® Helios IP Verso - I\O modul ,2N® Helios IP Verso - I\O modul ,788
+2N-9155081,"2N® IP Verso - Touch keypad & RFID reader (125kHz, 13,56MHz, NFC)","2N® IP Verso - Touch keypad & RFID reader (125kHz, 13,56MHz, NFC)","7,030.00"
+2N-9155082,"2N® IP Verso - Bluetooth & RFID reader (125kHz, 13,56MHz, NFC)","2N® IP Verso - Bluetooth & RFID reader (125kHz, 13,56MHz, NFC)","8,423.00"
+2N-9155083,"2N® IP Verso - Touch keypad & RFID reader (125kHz, secured 13,56MHz, NFC)","2N® IP Verso - Touch keypad & RFID reader (125kHz, secured 13,56MHz, NFC)","8,090.00"
+2N-9155084,"2N® IP Verso - Bluetooth & RFID reader (125kHz, secured 13,56MHz, NFC)","2N® IP Verso - Bluetooth & RFID reader (125kHz, secured 13,56MHz, NFC)","9,484.00"
+2N-9155021,"2N® Helios IP Verso - Frame for surface installation, 1 module","2N® Helios IP Verso - Frame for surface installation, 1 module",879
+2N-9155023,"2N® Helios IP Verso - Frame for surface installation, 3 modules","2N® Helios IP Verso - Frame for surface installation, 3 modules","1,212.00"
+2N-9155021B,"2N® Helios IP Verso - Frame for surface installation, 1 module - black","2N® Helios IP Verso - Frame for surface installation, 1 module - black",879
+2N-9155022B,"2N® Helios IP Verso - Frame for surface installation, 2 modules - black","2N® Helios IP Verso - Frame for surface installation, 2 modules - black","1,030.00"
+2N-9155023B,"2N® Helios IP Verso - Frame for surface installation, 3 modules - black","2N® Helios IP Verso - Frame for surface installation, 3 modules - black","1,212.00"
+2N-9155011,"2N® Helios IP Verso - Frame for flush installation, 1 module (must be together with 9155014)","2N® Helios IP Verso - Frame for flush installation, 1 module (must be together with 9155014)","1,303.00"
+2N-9155011B,"2N® Helios IP Verso - Frame for flush installation, 1 module - black (must be together with 9155014) ","2N® Helios IP Verso - Frame for flush installation, 1 module - black (must be together with 9155014) ","1,303.00"
+2N-9155014,"2N® Helios IP Verso - Box for flush installation, 1 module (must be together with 9155011 or 9155011B)  ","2N® Helios IP Verso - Box for flush installation, 1 module (must be together with 9155011 or 9155011B)  ",424
+2N-9155013,"2N® Helios IP Verso - Frame for flush installation, 3 modules (must be together with 9155016)","2N® Helios IP Verso - Frame for flush installation, 3 modules (must be together with 9155016)","1,576.00"
+2N-9155013B,"2N® Helios IP Verso - Frame for flush installation, 3 modules - black (must be together with 9155016)","2N® Helios IP Verso - Frame for flush installation, 3 modules - black (must be together with 9155016)","1,576.00"
+2N-9155016,"2N® Helios IP Verso - Box for flush installation, 3 modules (must be together with 9155013 or 9155013B)","2N® Helios IP Verso - Box for flush installation, 3 modules (must be together with 9155013 or 9155013B)",636
+2N-9155061,2N® Helios IP Verso - backplate for 1 module,2N® Helios IP Verso - backplate for 1 module,939
+2N-9155063,2N® Helios IP Verso - backplate for 3 modules,2N® Helios IP Verso - backplate for 3 modules,"1,273.00"
+2N-9159010,2N® Helios IP- Security relay,2N® Helios IP- Security relay,"1,727.00"
+2N-9156111CB,"2N® Helios IP Base with camera, black frame","2N® Helios IP Base with camera, black frame","10,847.00"
+2N-9156030,2N® Helios IP Base - 125kHz RFID card reader,2N® Helios IP Base - 125kHz RFID card reader,"1,485.00"
+2N-9156031,"2N® Helios IP Base - 13.56MHz RFID card reader, reads UID","2N® Helios IP Base - 13.56MHz RFID card reader, reads UID","2,697.00"
+2N-9156020,2N® Helios IP Base - backplate,2N® Helios IP Base - backplate,"1,151.00"
+2N-9151101W,2N® Helios IP Force - 1 button & 10W speaker,2N® Helios IP Force - 1 button & 10W speaker,"13,756.00"
+2N-9151104W ,2N® Helios IP Force - 4 buttons & 10W speaker,2N® Helios IP Force - 4 buttons & 10W speaker,"14,847.00"
+2N-9151101KW,2N® Helios IP Force - 1 button & keypad & 10W speaker,2N® Helios IP Force - 1 button & keypad & 10W speaker,"14,877.00"
+2N-9151102RW,2N® Helios IP Force - 2 buttons (card reader ready) & 10W speaker,2N® Helios IP Force - 2 buttons (card reader ready) & 10W speaker,"14,877.00"
+2N-9151101RPW,"2N® Helios IP Force - 1 button, pictograms, 10W speaker (card reader ready)","2N® Helios IP Force - 1 button, pictograms, 10W speaker (card reader ready)","15,423.00"
+2N-9151104CW ,2N® Helios IP Force - 4 button & camera & 10W speaker,2N® Helios IP Force - 4 button & camera & 10W speaker,"17,877.00"
+2N-9151102CRW,2N® Helios IP Force - 2 buttons & camera (card reader ready) & 10W speaker,2N® Helios IP Force - 2 buttons & camera (card reader ready) & 10W speaker,"18,059.00"
+2N-9151101CKW,2N® Helios IP Force - 1 button & camera & keypad & 10W speaker,2N® Helios IP Force - 1 button & camera & keypad & 10W speaker,"18,089.00"
+2N-9151101CRPW,"2N® Helios IP Force - 1 button, camera, pictograms, 10W speaker (card reader ready)","2N® Helios IP Force - 1 button, camera, pictograms, 10W speaker (card reader ready)","18,725.00"
+2N-9151101CHKW,2N® Helios IP Force - 1 button & HD camera & keypad & 10W speaker,2N® Helios IP Force - 1 button & HD camera & keypad & 10W speaker,"19,028.00"
+2N-9151102CHRW,2N® Helios IP Force - 2 buttons & HD camera (card reader ready) & 10W speaker,2N® Helios IP Force - 2 buttons & HD camera (card reader ready) & 10W speaker,"19,028.00"
+2N-9151101CW,2N® Helios IP Force - 1 button & camera & 10W speaker,2N® Helios IP Force - 1 button & camera & 10W speaker,"13,759.00"
+2N-9151101CHRPW,"2N® Helios IP Force - 1 button, HD camera, pictograms, 10W speaker (card reader ready)","2N® Helios IP Force - 1 button, HD camera, pictograms, 10W speaker (card reader ready)","19,665.00"
+2N-9151001,2N® Brick flush mounting box (for Helios IP Force/Safety),2N® Brick flush mounting box (for Helios IP Force/Safety),"1,576.00"
+2N-9151002,2N® Plasterboard flush mounting board (for Helios IP Force/Safety),2N® Plasterboard flush mounting board (for Helios IP Force/Safety),"1,303.00"
+2N-9152000,2N® Helios IP Safety - metal frame (Orange color),2N® Helios IP Safety - metal frame (Orange color),515
+2N-9137905,2N® Helios IP License - Enhanced Audio,2N® Helios IP License - Enhanced Audio,"1,000.00"
+2N-9137906,2N® Helios IP License - Enhanced Video,2N® Helios IP License - Enhanced Video,"1,576.00"
+2N-9137907,2N® Helios IP License - Enhanced Integration,2N® Helios IP License - Enhanced Integration,"1,000.00"
+2N-9137908,2N® Helios IP License - Enhanced Security,2N® Helios IP License - Enhanced Security,"1,576.00"
+2N-9137909,2N® Helios IP License - Gold License,2N® Helios IP License - Gold License,"3,848.00"
+2N-9137915,2N® Helios IP License - NFC License,2N® Helios IP License - NFC License,303
+2N-9137910,2N® Helios IP License - Informacast License,2N® Helios IP License - Informacast License,"1,000.00"
+2N-914407E,2N® SIP Speaker license - Informacast License,2N® SIP Speaker license - Informacast License,"1,000.00"
+2N-914401E,2N® SIP Audio Converter,2N® SIP Audio Converter,"6,090.00"
+2N-914490E,2N® SIP Audio Converter set with Speaker and Mic,2N® SIP Audio Converter set with Speaker and Mic,"4,727.00"
+2N-914421B,"2N® SIP Speaker, Wall Mounted","2N® SIP Speaker, Wall Mounted","7,181.00"
+2N-914431E ,2N® SIP Mic organic,2N® SIP Mic organic,"14,999.00"
+2N-914422E,"2N® SIP Speaker, Horn ","2N® SIP Speaker, Horn ","9,363.00"
+2N-914423E,"2N® SIP Speaker Horn, Power supply 24V","2N® SIP Speaker Horn, Power supply 24V","1,061.00"
+2N-916019,2N® Access Unit - Fingerprint reader (external fingerprint reader = 9137423E needed for installation),2N® Access Unit - Fingerprint reader (external fingerprint reader = 9137423E needed for installation),"10,454.00"
+2N-916016,2N® Access Unit - Touch keypad,2N® Access Unit - Touch keypad,"5,272.00"
+2N-916009,2N® Access Unit - 125kHz,2N® Access Unit - 125kHz,"5,909.00"
+2N-916010,2N® Access Unit - 13.56MHz cards NFC ready,2N® Access Unit - 13.56MHz cards NFC ready,"5,909.00"
+2N-916013,2N® Access Unit - Bluetooth,2N® Access Unit - Bluetooth,"7,211.00"
+2N-916012,2N® Access Unit - NFC license,2N® Access Unit - NFC license,394
+2N-9137423E,2N® Helios IP - external fingerprint reader (USB interface),2N® Helios IP - external fingerprint reader (USB interface),"3,939.00"
+2N-9137422E,2N® Helios IP - external Bluetooth reader (USB interface),2N® Helios IP - external Bluetooth reader (USB interface),545
+2N-9137420E,2N® External RFID Reader 125kHz EMarine (USB interface),2N® External RFID Reader 125kHz EMarine (USB interface),"1,000.00"
+2N-9137421E,2N® External RFID Reader 13.56MHz (USB interface),2N® External RFID Reader 13.56MHz (USB interface),"3,666.00"
+2N-9159030,"2N® External 125 kHz EMarine RFID card reader, Wiegand","2N® External 125 kHz EMarine RFID card reader, Wiegand","1,576.00"
+2N-9159031,"2N® External 13.56MHz Mifare RFID card reader, Wiegand","2N® External 13.56MHz Mifare RFID card reader, Wiegand","1,576.00"
+2N-9134165E,2N® EMarine RFID card 125 kHz,2N® EMarine RFID card 125 kHz,61
+2N-9134166E,2N® EMarine RFID key fob 125 kHz,2N® EMarine RFID key fob 125 kHz,61
+2N-9134173,2N® Mifare RFID card 13.56MHz,2N® Mifare RFID card 13.56MHz,61
+2N-9134174,2N® Mifare RFID key fob 13.56MHz,2N® Mifare RFID key fob 13.56MHz,61
+2N-91379040,2N® Access Commander - license for +5 devices (block of 5 licenses),2N® Access Commander - license for +5 devices (block of 5 licenses),"1,000.00"
+2N-91379041,2N® Access Commander - license for +25 users (block of 25 licenses) used only for attendance monitoring/tracking ,2N® Access Commander - license for +25 users (block of 25 licenses) used only for attendance monitoring/tracking ,"3,697.00"
+2N-91379042,2N® Access Commander - LDAP license,2N® Access Commander - LDAP license,"3,697.00"
+AX-AXH M2M,"Axtel M2 Mono, Noise Cancelling, Wideband Headset - Requires Bottom Cable","Axtel M2 Mono, Noise Cancelling, Wideband Headset - Requires Bottom Cable",620.69
+AX-AXH M2D,"Axtel M2 Duo, Noise Cancelling, Wideband Headset - Requires Bottom Cable","Axtel M2 Duo, Noise Cancelling, Wideband Headset - Requires Bottom Cable",701.65
+AX-AXH V28M,"Axtel Voice28 Mono, Noise Cancelling, Heavy Duty Headset - Requires Bottom Cable","Axtel Voice28 Mono, Noise Cancelling, Heavy Duty Headset - Requires Bottom Cable",620.69
+AX-AXH V28D,"Axtel Voice28 Due, Noise Cancelling, Heavy Duty Headset - Requires Bottom Cable","Axtel Voice28 Due, Noise Cancelling, Heavy Duty Headset - Requires Bottom Cable",701.65
+AX-AXH V40M,"Axtel Voice40 Mono, Noise Cancelling, Heavy Duty Headset - Requires Bottom Cable","Axtel Voice40 Mono, Noise Cancelling, Heavy Duty Headset - Requires Bottom Cable",782.61
+AX-AXH V40D,"Axtel Voice40 Duo, Noise Cancelling, Heavy Duty Headset - Requires Bottom Cable","Axtel Voice40 Duo, Noise Cancelling, Heavy Duty Headset - Requires Bottom Cable",890.56
+AX-AXH PRIM,"Axtel Prime HD, Mono Noise Cancelling Headset - Requires Bottom Cable","Axtel Prime HD, Mono Noise Cancelling Headset - Requires Bottom Cable","1,025.49"
+AX-AXH PRID,"Axtel Prime Duo, Noise Cancelling, HD Audio Headset - Requires Bottom Cable","Axtel Prime Duo, Noise Cancelling, HD Audio Headset - Requires Bottom Cable",760
+AX-AXH EHDM,"Axtel Elite Mono, Noise Cancelling, HD Audio Headset - Requires Bottom Cable","Axtel Elite Mono, Noise Cancelling, HD Audio Headset - Requires Bottom Cable","1,133.44"
+AX-AXH EHDD,"Axtel Elite Duo, Noise Cancelling, HD Audio Headset - Requires Bottom Cable","Axtel Elite Duo, Noise Cancelling, HD Audio Headset - Requires Bottom Cable","1,214.40"
+AX-AXH PRIMP,"Axtel Personalized Prime Mono, Noise Cancelling, HD Audio Headset - Requires Bottom Cable","Axtel Personalized Prime Mono, Noise Cancelling, HD Audio Headset - Requires Bottom Cable","1,239.04"
+AX-AXH PRIDP,"Axtel Personalized Prime Duo, Noise Cancelling, HD Audio Headset - Requires Bottom Cable","Axtel Personalized Prime Duo, Noise Cancelling, HD Audio Headset - Requires Bottom Cable","1,408.00"
+AX-AXH MS2M,"Axtel MS2 Mono, USB, Noise Cancelling, Multifunction Controller & DSP","Axtel MS2 Mono, USB, Noise Cancelling, Multifunction Controller & DSP",701.65
+AX-AXH MS2D,"Axtel MS2 Duo, USB, Noise Cancelling, Multifunction Controller & DSP","Axtel MS2 Duo, USB, Noise Cancelling, Multifunction Controller & DSP",782.61
+AX-AXH V28USBM,"Axtel Voice28 Mono, USB, Noise Cancelling","Axtel Voice28 Mono, USB, Noise Cancelling",701.65
+AX-AXH V28USBD,"Axtel Voice28  Duo, USB, Noise Cancelling","Axtel Voice28  Duo, USB, Noise Cancelling",782.61
+AX-AXH V28UCM,Voice 28 Mono NS USB/UC,Voice 28 Mono NS USB/UC,836.59
+AX-AXH V28UCD,Voice 28 Duo NS USB/UC,Voice 28 Duo NS USB/UC,917.55
+AX-AXH V40UCM,Voice 40 Mono NS USB/UC,Voice 40 Mono NS USB/UC,971.52
+AX-AXH PRIMSM,"Axtel Prime USB Mono, Noise Cancelling, HD Audio, Multifunction Controller & DSP","Axtel Prime USB Mono, Noise Cancelling, HD Audio, Multifunction Controller & DSP","1,376.32"
+AX-AXH PRIMSD,"Axtel Prime USB Duo, Noise Cancelling, HD Audio, Multifunction Controller & DSP","Axtel Prime USB Duo, Noise Cancelling, HD Audio, Multifunction Controller & DSP","1,619.20"
+AX-AXH PRIMSMP,"Axtel Personalized Prime USB Mono, Noise Cancelling, HD Audio, Multifunction Controller & DSP","Axtel Personalized Prime USB Mono, Noise Cancelling, HD Audio, Multifunction Controller & DSP","1,576.96"
+AX-AXH PRIMSDP,"Axtel Personalized Prime USB Duo, Noise Cancelling, HD Audio, Multifunction Controller & DSP","Axtel Personalized Prime USB Duo, Noise Cancelling, HD Audio, Multifunction Controller & DSP","1,802.24"
+AX-AXH EHDMSM,"Axtel Elite USB Mono, Noise Cancelling, HD Audio, Multifunction Controller & DSP","Axtel Elite USB Mono, Noise Cancelling, HD Audio, Multifunction Controller & DSP","1,538.24"
+AX-AXH EHDMSD,"Axtel Elite USB Duo, Noise Cancelling, HD Audio, Multifunction Controller & DSP","Axtel Elite USB Duo, Noise Cancelling, HD Audio, Multifunction Controller & DSP","1,619.20"
+AX-AXH PRX1M,"Axtel Prime X1 Mono wireless DECT headset, RJ	","Axtel Prime X1 Mono wireless DECT headset, RJ	","3,292.37"
+AX-AXH PRX1D,"Axtel Prime X3 Stereo wireless DECT headset, RJ	","Axtel Prime X3 Stereo wireless DECT headset, RJ	","3,481.28"
+AX-AXH PRX3M,"Axtel Prime X3 Mono wireless DECT headset, RJ, Bluetooth and USB connection","Axtel Prime X3 Mono wireless DECT headset, RJ, Bluetooth and USB connection","3,724.16"
+AX-AXH PRX3D,"Axtel Prime X3 Stereo wireless DECT headset, RJ, Bluetooth and USB connection","Axtel Prime X3 Stereo wireless DECT headset, RJ, Bluetooth and USB connection","3,940.05"
+AX-YE1,Axtel X3 EHS Yealink,Axtel X3 EHS Yealink,701.65
+AX-AV2,Axtel X3 EHS Avaya,Axtel X3 EHS Avaya,701.65
+AX-PO1,Axtel X3 EHS Polycom,Axtel X3 EHS Polycom,701.65
+AX-CI1,Axtel X3 EHS Cisco,Axtel X3 EHS Cisco,701.65
+AX-AXC 01,"Axtel RJ9 Bottom Cable Polycom, Digium, Fanvil, Samsung","Axtel RJ9 Bottom Cable Polycom, Digium, Fanvil, Samsung",122.03
+AX-AXC 02,"Axtel RJ9 Bottom Cable SNOM, Grandstream","Axtel RJ9 Bottom Cable SNOM, Grandstream",122.03
+AX-AXC 03,Axtel RJ9 Bottom Cable Yealink,Axtel RJ9 Bottom Cable Yealink,122.03
+AX-AXC 04,Axtel RJ9 Bottom Cable - Check Compatability,Axtel RJ9 Bottom Cable - Check Compatability,122.03
+AX-AXC 05,Axtel RJ9 Bottom Cable - Check Compatability,Axtel RJ9 Bottom Cable - Check Compatability,122.03
+AX-981,Axtel 981 Amplifier With Volume Control,Axtel 981 Amplifier With Volume Control,"1,037.23"
+AX-AXC 25,Axtel 2.5mm Bottom Cable Coiled With 2.5mm Jack,Axtel 2.5mm Bottom Cable Coiled With 2.5mm Jack,213.55
+AX-AXC 35 IPH,"Axtel 3.5mm Bottom Cable with mute. Works on I-Phone, Yealink W, Grandstream & RTX","Axtel 3.5mm Bottom Cable with mute. Works on I-Phone, Yealink W, Grandstream & RTX",518.61
+AX-AXC HISHD,Axtel Bottom Cable for Cisco & Avaya,Axtel Bottom Cable for Cisco & Avaya,396.59
+AX-AXC Y,"Axtel Trainer Cord, 2x QD - 1x QD","Axtel Trainer Cord, 2x QD - 1x QD",396.59
+AX-AXC USB C3,Axtel USB Bottom Cable w/o Multifunction controller,Axtel USB Bottom Cable w/o Multifunction controller,396.59
+AX-AXC USB C8MS,"Axtel USB  Bottom Cable with DSP and Multifunction Controller (Mute, Call Pick Up, Volume up & down)","Axtel USB  Bottom Cable with DSP and Multifunction Controller (Mute, Call Pick Up, Volume up & down)",518.61
+CO-C5EUTP100,24AWG UTP CAT5E Indoor Cable Pass Fluke Test - 100m ,24AWG UTP CAT5E Indoor Cable Pass Fluke Test - 100m , 443.00 
+CO-C5EFTP100,24AWG FTP CAT5E Indoor Cable Pass Fluke Test - 100m ,24AWG FTP CAT5E Indoor Cable Pass Fluke Test - 100m , 525.00 
+CO-C6UTP100,23AWG UTP CAT6 Indoor Cable Pass Fluke Test - 100m ,23AWG UTP CAT6 Indoor Cable Pass Fluke Test - 100m , 565.00 
+CO-C5EUTP305,24AWG UTP CAT5E Indoor Cable Pass Fluke Test - 305m ,24AWG UTP CAT5E Indoor Cable Pass Fluke Test - 305m ," 1,260.00 "
+CO-C5EUTP500,24AWG UTP CAT5E Indoor Cable Pass Fluke Test - 500m ,24AWG UTP CAT5E Indoor Cable Pass Fluke Test - 500m ," 2,125.00 "
+CO-C5EFTP305,24AWG FTP CAT5E Indoor Cable Pass Fluke Test - 305m ,24AWG FTP CAT5E Indoor Cable Pass Fluke Test - 305m ," 1,005.00 "
+CO-C6UTP305,23AWG UTP CAT6 Indoor Cable Pass Fluke Test - 305m ,23AWG UTP CAT6 Indoor Cable Pass Fluke Test - 305m ," 1,665.00 "
+CO-C6FTP305,23AWG FTP CAT6 Indoor Cable Pass Fluke Test - 305m ,23AWG FTP CAT6 Indoor Cable Pass Fluke Test - 305m ," 2,181.00 "
+CO-C6UTP500,23AWG UTP CAT6 Indoor Cable Pass Fluke Test - 500m ,23AWG UTP CAT6 Indoor Cable Pass Fluke Test - 500m ," 2,075.00 "
+CO-C5ESTP100,24AWG STP CAT5E Double Shield Outdoor Cable - 100m,24AWG STP CAT5E Double Shield Outdoor Cable - 100m, 632.00 
+CO-C5ESTP305,24AWG STP CAT5E Double Shield Outdoor Cable - 305m,24AWG STP CAT5E Double Shield Outdoor Cable - 305m," 1,843.00 "
+CO-C5ESTP500,24AWG STP CAT5E DOUBLE SHIELD OUTDOOR CABLE - 500m,24AWG STP CAT5E DOUBLE SHIELD OUTDOOR CABLE - 500m," 3,886.00 "
+CO-C6STP305,23AWG STP CAT6 Outdoor Cable - 305m,23AWG STP CAT6 Outdoor Cable - 305m," 2,058.00 "
+CO-LMR200,LMR200 jumper cable 50cm RP SMA male-N male,LMR200 jumper cable 50cm RP SMA male-N male, 120.00 
+CO-LMR400,LMR400 1M N male straight crimp-N male straight crimp,LMR400 1M N male straight crimp-N male straight crimp, 217.00 
+CO-C5ESFB1,CAT5E Surface Mount Single Box,CAT5E Surface Mount Single Box, 15.00 
+CO-C5ESFB2,CAT5E Surface Mount Double Box,CAT5E Surface Mount Double Box, 27.00 
+CO-C6ESFB1,CAT6 Surface Mount Single Box,CAT6 Surface Mount Single Box, 19.00 
+CO-C6ESFB2,CAT6 Surface Mount Double Box,CAT6 Surface Mount Double Box, 34.00 
+CO-CAT5ERJ45UTP,RJ45 UTP CAT5E Connector  - 50pcs,RJ45 UTP CAT5E Connector  - 50pcs, 20.00 
+CO-CAT6RJ45UTP,RJ45 UTP CAT6  Connector - 50pcs,RJ45 UTP CAT6  Connector - 50pcs, 39.00 
+CO-CAT5ERJ45FTP,RJ45 FTP CAT5E Connector - 50pcs,RJ45 FTP CAT5E Connector - 50pcs, 20.00 
+CO-CAT6RJ45FTP,RJ45 FTP CAT6  Connector - 50pcs,RJ45 FTP CAT6  Connector - 50pcs, 48.00 
+CO-RJ45BTSG,RJ45 Boots Grey Colour - 50pcs,RJ45 Boots Grey Colour - 50pcs, 7.00 
+CO-RJ46BTSB,RJ45 Boots Black Colour - 50pcs,RJ45 Boots Black Colour - 50pcs, 24.00 
+CO-C5EPPUTP,24Port  UTP CAT5E Patch Panel,24Port  UTP CAT5E Patch Panel, 300.00 
+CO-C6EPPUTP,24Port  UTP CAT6 Patch Panel,24Port  UTP CAT6 Patch Panel, 257.00 
+CO-C5EPPFTP,24Port  FTP CAT5E Patch Panel,24Port  FTP CAT5E Patch Panel, 776.00 
+CO-C6PPFTP,24Port  FTP CAT6 Patch Panel,24Port  FTP CAT6 Patch Panel, 827.00 
+CO-PP1UBMB,"Connect PP1UBMB, 1U Brush Panel Black","Connect PP1UBMB, 1U Brush Panel Black", 72.00 
+CO-C5EPAT0.5M,24AWG UTP CAT5E Patch Cable 0.5M,24AWG UTP CAT5E Patch Cable 0.5M, 5.00 
+CO-C5EPAT1M,24AWG UTP CAT5E Patch Cable 1M,24AWG UTP CAT5E Patch Cable 1M, 11.00 
+CO-C5EPAT3M,24AWG UTP CAT5E Patch Cable 3M,24AWG UTP CAT5E Patch Cable 3M, 24.00 
+CO-C6PAT0.5M,24AWG UTP CAT6 Patch Cable 0.5M,24AWG UTP CAT6 Patch Cable 0.5M, 8.00 
+CO-C6PAT1M,24AWG UTP CAT6 Patch Cable 1M,24AWG UTP CAT6 Patch Cable 1M, 11.00 
+CO-C6PAT3M,24AWG UTP CAT6 Patch Cable 3M,24AWG UTP CAT6 Patch Cable 3M, 21.00 
+CO-4U CAB,"Connect 4U Cabinet, 600x450, Detachable,glass door, with plastic multiplugs, fan, brush panel, cage nuts     ","Connect 4U Cabinet, 600x450, Detachable,glass door, with plastic multiplugs, fan, brush panel, cage nuts     ", 857.00 
+CO-6U CAB,"Connect 6U Cabinet, 600x450, Detachable,glass door, with plastic multiplugs, fan, brush panel, cage nuts     ","Connect 6U Cabinet, 600x450, Detachable,glass door, with plastic multiplugs, fan, brush panel, cage nuts     ", 931.00 
+CO-9U CAB,"Connect 9U Cabinet, 600x450, Detachable,glass door, with plastic multiplugs, fan, brush panel, cage nuts     ","Connect 9U Cabinet, 600x450, Detachable,glass door, with plastic multiplugs, fan, brush panel, cage nuts     "," 1,360.00 "
+CO-12U CAB,"Connect 12U Cabinet, 600x450, Detachable,glass door, with plastic multiplugs, fan, brush panel, cage nuts","Connect 12U Cabinet, 600x450, Detachable,glass door, with plastic multiplugs, fan, brush panel, cage nuts"," 1,078.00 "
+CO-CAB 6UO,"Connect CAB-6UO,  6U 450 Deep Outdoor Cabinet 2X Fan","Connect CAB-6UO,  6U 450 Deep Outdoor Cabinet 2X Fan"," 1,831.00 "
+CO-4U CABFP,"Connect 4U Cabinet, 600x450,  without PDU/Fans/Cable Manager","Connect 4U Cabinet, 600x450,  without PDU/Fans/Cable Manager", 752.00 
+CO-6U CABFP,"Connect 6U Cabinet, 600x450, without PDU/Fans/Cable Manager","Connect 6U Cabinet, 600x450, without PDU/Fans/Cable Manager", 817.00 
+GG-A540IP,Gigaset A540 IP Voip DECT Dual Cordless Phone,Gigaset A540 IP Voip DECT Dual Cordless Phone,"1,035.00"
+GG-E630A GO,Gigaset Ruggedized Cordless Dect Phone,Gigaset Ruggedized Cordless Dect Phone,"1,583.00"
+GG-REP,"Dect Repeater - additional range 50m indoors, 300m outdoors for A580IP","Dect Repeater - additional range 50m indoors, 300m outdoors for A580IP","2,056.00"
+GG-DX800A,"Soho PBX Solution, 4 Voip Calls, 1 x FXO/ISDN, 2 x RJ45, Gigabit, register 6 handsets","Soho PBX Solution, 4 Voip Calls, 1 x FXO/ISDN, 2 x RJ45, Gigabit, register 6 handsets","3,696.00"
+GG-N510IP,"Gigaset Base Station only, 6 SIP accounts with 4 concurrent calls","Gigaset Base Station only, 6 SIP accounts with 4 concurrent calls","1,740.00"
+GG-E630H,"Additional Handset, Rugged handset, Dust, splash and shock resistant","Additional Handset, Rugged handset, Dust, splash and shock resistant","1,062.00"
+GG-R650H PRO,Gigaset R630H Ruggedized Handset,Gigaset R630H Ruggedized Handset,"2,380.00"
+GG-A540H,Additional handsets for A510IP (max 6 handsets per base station),Additional handsets for A510IP (max 6 handsets per base station),622
+GG-S650H PRO,"Additional Handset, Colour Screen, 8 line display","Additional Handset, Colour Screen, 8 line display","1,779.00"
+GS-GXP1615,Grandstream 10/100 1 line IP phone with POE,Grandstream 10/100 1 line IP phone with POE,425.54
+GS-GXP1625,Grandstream 10/100 2 line IP phone with POE,Grandstream 10/100 2 line IP phone with POE,689.04
+GS-GXP1628,"Grandstream Gigabit 2 line,8 BLF IP phone with POE","Grandstream Gigabit 2 line,8 BLF IP phone with POE",926.64
+GS-GXP1630,"Grandstream Gigabit 3 line, 8 BLF IP phone with PO","Grandstream Gigabit 3 line, 8 BLF IP phone with PO",963.9
+GS-GXP1760W,"Grandstream 10/100 6 line IP phone with POE, wifi","Grandstream 10/100 6 line IP phone with POE, wifi","1,496.88"
+GS-GXP1780,"Grandstream Gigabit 8 line, 4 SIP, POE IP Phone","Grandstream Gigabit 8 line, 4 SIP, POE IP Phone",832.5
+GS-GXP1782,"Grandstream Gigabit 8 line, 4 SIP, POE IP Phone","Grandstream Gigabit 8 line, 4 SIP, POE IP Phone",985.36
+GS-GXP2130,"Grandstream Gigabit 3 line,8 BLF, colour screen IP","Grandstream Gigabit 3 line,8 BLF, colour screen IP",990
+GS-GXP2135,"Grandstream Gigabit 8 line,8 BLF,IP phone with POE","Grandstream Gigabit 8 line,8 BLF,IP phone with POE","1,104.66"
+GS-GXP2140,"Grandstream Gigabit 4 line, IP phone with POE","Grandstream Gigabit 4 line, IP phone with POE","1,434.51"
+GS-GXP2160,"Grandstream Gigabit 6 Line, 6 SIP, POE IP Phone","Grandstream Gigabit 6 Line, 6 SIP, POE IP Phone","1,500.00"
+GS-GXP2170,"Grandstream Gigabit 12 line,48 BLF,IP phone POE  ","Grandstream Gigabit 12 line,48 BLF,IP phone POE  ","1,694.93"
+GS-GXP2200EXT,"Grandstream backlit LCD extension module for GXP2140, GXP2170 and GXV3240","Grandstream backlit LCD extension module for GXP2140, GXP2170 and GXV3240","1,255.50"
+GS-GRP2612,Grandstream 2-Line Carrier Desk Phone w/o PoE,Grandstream 2-Line Carrier Desk Phone w/o PoE,737.2
+GS-GRP2612P,Grandstream 2-Line Carrier Desk Phone with PoE ( No PSU),Grandstream 2-Line Carrier Desk Phone with PoE ( No PSU),743.08
+GS-GRP2612W,Grandstream 2-Line Carrier Desk Phone with PoE + WiFi,Grandstream 2-Line Carrier Desk Phone with PoE + WiFi,"1,496.88"
+GS-GRP2613,Grandstream 3-Line Carrier Desk Phone with PoE,Grandstream 3-Line Carrier Desk Phone with PoE,"1,002.60"
+GS-GRP2614,Grandstream 4-Line Carrier Desk Phone with PoE,Grandstream 4-Line Carrier Desk Phone with PoE,"1,795.37"
+GS-GRP2615,Grandstream 10-Line Carrier Desk Phone with PoE,Grandstream 10-Line Carrier Desk Phone with PoE,"2,259.90"
+GS-GRP2616,Grandstream 6-Line Carrier Desk Phone with PoE,Grandstream 6-Line Carrier Desk Phone with PoE,"2,280.96"
+GS-GBX20,Grandstream Expansion Module for GRP2615 & GXV3350,Grandstream Expansion Module for GRP2615 & GXV3350,"1,877.04"
+GS-DP720,Grandstream DECT handset - Compatible with DP750 + DP752,Grandstream DECT handset - Compatible with DP750 + DP752,760.32
+GS-DP722,Grandstream DECT handset - Compatible with DP750 + DP752,Grandstream DECT handset - Compatible with DP750 + DP752,807.84
+GS-DP730,Grandstream DECT handset - Compatible with DP750 + DP752,Grandstream DECT handset - Compatible with DP750 + DP752,"1,197.63"
+GS-DP750,Grandstream DECT VoIP B/S 10 lines 5 Handsets DP720 P/B,Grandstream DECT VoIP B/S 10 lines 5 Handsets DP720 P/B,648.68
+GS-DP752,"Grandstream DECT VoIP B/S 10 lines 5 Handsets P/B DP720, DP722, DP730","Grandstream DECT VoIP B/S 10 lines 5 Handsets P/B DP720, DP722, DP730",685.08
+GS-DP760,Grandstream DECT Repeater,Grandstream DECT Repeater,"1,175.85"
+GS-WP820,Grandstream WP820 Wifi Portable Phone,Grandstream WP820 Wifi Portable Phone,"2,589.38"
+GS-GXV3240,"Grandstream Android 4.3"" touch screen Video Phone","Grandstream Android 4.3"" touch screen Video Phone","2,391.12"
+GS-GXV3350,"Grandstream Android 5"" touch screen Video Phone","Grandstream Android 5"" touch screen Video Phone","3,754.08"
+GS-GXV3370,"Grandstream GXV3370 IP Video Phone, 16 SIP","Grandstream GXV3370 IP Video Phone, 16 SIP","4,395.60"
+GS-GXV3380,Grandstream GXV3380 Android Video IP Phone,Grandstream GXV3380 Android Video IP Phone,"6,629.04"
+GS-GAC2500,Grandstream Android-based Business Conference Phne,Grandstream Android-based Business Conference Phne,"4,457.36"
+GS-GVC3200,Grandstream Android 9 way video conferencing system,Grandstream Android 9 way video conferencing system,"24,758.00"
+GS-GVC3202,Grandstream Android 3 way video conferencing system,Grandstream Android 3 way video conferencing system,"9,795.00"
+GS-GVC3210,"Grandstream 4K EPTZ, Video Conferencing Unit","Grandstream 4K EPTZ, Video Conferencing Unit","11,997.72"
+GS-IPVT10,"Grandstream IPVT10 Enterprise Server (NFR watermark, 4-way MCU, 8 participants after first 60-day full capacity license demo )","Grandstream IPVT10 Enterprise Server (NFR watermark, 4-way MCU, 8 participants after first 60-day full capacity license demo )","95,016.24"
+GS-IPVTBP,"Grandstream IP Video Talk WebRTC for small Business, up to 50 Patricipants and up to 49 video Feeds","Grandstream IP Video Talk WebRTC for small Business, up to 50 Patricipants and up to 49 video Feeds", Fee 
+GS-IPVTPP,"Grandstream IP Video Talk WebRTC for small Business, up to 100 Patricipants and up to 49 video Feeds (Monthly service fee billed annually)","Grandstream IP Video Talk WebRTC for small Business, up to 100 Patricipants and up to 49 video Feeds (Monthly service fee billed annually)",165
+GS-IPVTBUS,"Grandstream IP Video Talk WebRTC for small Business, up to 50 Patricipants and up to 49 video Feeds (Monthly service fee billed annually)","Grandstream IP Video Talk WebRTC for small Business, up to 50 Patricipants and up to 49 video Feeds (Monthly service fee billed annually)",242
+GS-IPVTGVC,GVC add on to IPVideoTalk Plans (Monthly service fee billed annually),GVC add on to IPVideoTalk Plans (Monthly service fee billed annually),396
+GS-IPVTSTOR,Add extra 50GB Cloud Storage to IPVT Plans (Monthly service fee billed annually),Add extra 50GB Cloud Storage to IPVT Plans (Monthly service fee billed annually),264
+GS-IPVTPAR50,Add 50 Participants to IPVideoTalk Plan (Monthly service fee billed annually),Add 50 Participants to IPVideoTalk Plan (Monthly service fee billed annually),264
+GS-IPVTPAR150,Add 150 Participants to IPVideoTalk Plan (Monthly service fee billed annually),Add 150 Participants to IPVideoTalk Plan (Monthly service fee billed annually),726
+GS-IPVT10DEMO,"IPVT10 Full Demo LicenseNFR watermark, full capacity, no-time-limit demo license","IPVT10 Full Demo LicenseNFR watermark, full capacity, no-time-limit demo license","61,111.11"
+GS-IPVT10 35,"IPVT10 - 16-way MCU, 35-participant license
+","IPVT10 - 16-way MCU, 35-participant license
+","24,444.44"
+GS-IPVT10 50,"IPVT10 - 25-way MCU, 50-participant license
+","IPVT10 - 25-way MCU, 50-participant license
+","36,666.67"
+GS-IPVT10 75,"IPVT10 - 36-way MCU, 75-participant license
+","IPVT10 - 36-way MCU, 75-participant license
+","48,888.89"
+GS-IPVT10 100,"IPVT10 - 49-way MCU, 100-participant license
+","IPVT10 - 49-way MCU, 100-participant license
+","61,111.11"
+GS-IPVT10 200,"IPVT10 - 98-way MCU, 200-participant license
+","IPVT10 - 98-way MCU, 200-participant license
+","85,555.56"
+GS-IPVT10 300,"IPVT10 - 120-way MCU,300-participant license
+","IPVT10 - 120-way MCU,300-participant license
+","110,000.00"
+GS-UCM6202,"Grandstream IP PBX applicance, 500 Users, 50 Concurrent calls, up to 50 SIP Trunks 2 FXO,2 FXS ports","Grandstream IP PBX applicance, 500 Users, 50 Concurrent calls, up to 50 SIP Trunks 2 FXO,2 FXS ports","4,443.12"
+GS-UCM6204,"Grandstream IP PBX applicance, 500 Users, 75 Concurrent calls, up to 50 SIP Trunks 4 FXO,2 FXS ports","Grandstream IP PBX applicance, 500 Users, 75 Concurrent calls, up to 50 SIP Trunks 4 FXO,2 FXS ports","4,720.68"
+GS-UCM6208,"Grandstream IP PBX applicance, 500 Users, 100 Concurrent calls, up to 50 SIP Trunks 8 FXO,2 FXS ports","Grandstream IP PBX applicance, 500 Users, 100 Concurrent calls, up to 50 SIP Trunks 8 FXO,2 FXS ports","9,520.20"
+GS-UCM6510,"Grandstream IP PBX appliance, 2000 Users, 200 Concurrent calls, up to 50 SIP Trunks PRI interface","Grandstream IP PBX appliance, 2000 Users, 200 Concurrent calls, up to 50 SIP Trunks PRI interface","12,010.00"
+GS-HA100,Grandstream High Availability PABX,Grandstream High Availability PABX,"2,135.64"
+GS-GXW4104,Grandstream 10/100 4FXO Gateway,Grandstream 10/100 4FXO Gateway,"2,751.71"
+GS-GXW4108,"Grandsteam 10/100, 8 FXO Port Gateway","Grandsteam 10/100, 8 FXO Port Gateway","3,536.46"
+GS-GXW4216,Grandstream Gigabit 16 FXS port Gateway,Grandstream Gigabit 16 FXS port Gateway,"4,555.98"
+GS-GXW4224,Grandstream Gigabit 24 FXS port Gateway,Grandstream Gigabit 24 FXS port Gateway,"8,051.00"
+GS-GXW4232,Grandstream Gigabit 32 FXS port Gateway,Grandstream Gigabit 32 FXS port Gateway,"8,049.38"
+GS-GXW4248,Grandstream Gigabit 48 FXS port Gateway,Grandstream Gigabit 48 FXS port Gateway,"15,053.85"
+GS-GXW4501,Grandstream 1 E1/T1/J1 Digital VoIP Gateway,Grandstream 1 E1/T1/J1 Digital VoIP Gateway,"9,266.40"
+GS-GXW4502,Grandstream 2 E1/T1/J1 Digital VoIP Gateway,Grandstream 2 E1/T1/J1 Digital VoIP Gateway,"15,681.60"
+GS-GXW4504,Grandstream 4 E1/T1/J1 Digital VoIP Gateway,Grandstream 4 E1/T1/J1 Digital VoIP Gateway,"26,136.00"
+GS-HT801,Grandstream HT801 1 FXS port (ATA),Grandstream HT801 1 FXS port (ATA),522.72
+GS-HT802,Grandstream HT802 2 FXS port (ATA),Grandstream HT802 2 FXS port (ATA),625.7
+GS-HT812,"Grandstream 2 FXS Analog Phone Adapter (ATA), GB","Grandstream 2 FXS Analog Phone Adapter (ATA), GB",712.8
+GS-HT813,"Grandstream 1FXS, 1FXO Analog Phone Adapter (ATA)","Grandstream 1FXS, 1FXO Analog Phone Adapter (ATA)",833.92
+GS-HT814,"Grandstream 4 FXS Analog Phone Adapter (ATA), GB","Grandstream 4 FXS Analog Phone Adapter (ATA), GB","1,401.84"
+GS-HT818,"Grandstream 8 FXS Analog Phone Adapter (ATA), GB","Grandstream 8 FXS Analog Phone Adapter (ATA), GB","1,828.10"
+GS-GWN7600,"Grandstream 802.11 Wireless Access Point, Dual Band 2x2:2 MIMO","Grandstream 802.11 Wireless Access Point, Dual Band 2x2:2 MIMO","1,188.00"
+GS-GWN7610,"Grandstream 802.11 Wireless Access Point, Dual Band 3x3:3  MIMO","Grandstream 802.11 Wireless Access Point, Dual Band 3x3:3  MIMO","1,314.23"
+GS-GWN7630,"Grandstream 802.11 Wireless Access Point, Dual Band 4x4:4 MIMO","Grandstream 802.11 Wireless Access Point, Dual Band 4x4:4 MIMO","1,429.31"
+GS-GWN7600LR,"Grandstream Wireless Access Point Long Range 2x2:2 MIMO (NO PSU, Requires POE)","Grandstream Wireless Access Point Long Range 2x2:2 MIMO (NO PSU, Requires POE)","1,782.00"
+GS-GWN7000,"Grandstream Multi -WAN VPN Router, 2 x WAN and 5 x LAN","Grandstream Multi -WAN VPN Router, 2 x WAN and 5 x LAN","1,670.63"
+GS-POE,Grandstream PoE Injector,Grandstream PoE Injector,237.6
+GS-GSC3505,"Grandstream 1 way SIP Intercom Speaker, Intergrated WiFi and Bluetooth","Grandstream 1 way SIP Intercom Speaker, Intergrated WiFi and Bluetooth","2,808.00"
+GS-GSC3510,"Grandstream 2 way SIP intercom speaker, Intergrated WiFi and Bluetooth","Grandstream 2 way SIP intercom speaker, Intergrated WiFi and Bluetooth","3,738.15"
+GS-GDS3705,Grandstream GDS3705 Door phone system,Grandstream GDS3705 Door phone system,"3,307.50"
+GS-GDS3710,Grandstream GDS3710 Video Door System,Grandstream GDS3710 Video Door System,"3,969.00"
+GS-GDS In Wall Mount,Grandstream GDS In-Wall Mounting Kit,Grandstream GDS In-Wall Mounting Kit,570.24
+GS-RFID CARD,Grandstream USB RFID Card Reader,Grandstream USB RFID Card Reader,337.77
+GS-RFID CB,Grandstream RFID Card Bundle 100pcs for the GDS37xx and USB RFID Card Reaader,Grandstream RFID Card Bundle 100pcs for the GDS37xx and USB RFID Card Reaader,"1,069.20"
+RFID Fob Bundle 100 pcs,Grandstream RFID FOB tags Bundle 100pcs for the GDS37xx and USB RFID Card Reaader,Grandstream RFID FOB tags Bundle 100pcs for the GDS37xx and USB RFID Card Reaader,"1,069.20"
+UN-ICW 1000G,"Wifi Phone, Colour Display, L2-L3 quick roaming and convenient management of auto provisioning","Wifi Phone, Colour Display, L2-L3 quick roaming and convenient management of auto provisioning","2,341.00"
+UN-ICW 1000G S,Silicon Pouch for UNI-ICW1000G,Silicon Pouch for UNI-ICW1000G,591
+UN-ICW 1000B,Replacement Battery for the UNI-ICW-1000G,Replacement Battery for the UNI-ICW-1000G,444
+JR-JRC 24 MIMO,"JRC-24 MIMO RPSMA - ø 380 mm, 23.6dBi, 9°,  5.4 - 5.9 GHz","JRC-24 MIMO RPSMA - ø 380 mm, 23.6dBi, 9°,  5.4 - 5.9 GHz","1,911.19"
+JR-JRC 24DD MIMO,"JRC-24DD MIMO - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.4 GHz","JRC-24DD MIMO - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.4 GHz","2,517.00"
+JR-JRC 24DD SX MIMO,"JRC-24DD-SX MIMO - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.4 GHz","JRC-24DD-SX MIMO - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.4 GHz","2,881.08"
+JR-JRC 24DD MIMO PREC,"JRC-24DD MIMO - Precision - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.4 GHz","JRC-24DD MIMO - Precision - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.4 GHz","6,027.19"
+JR-JRC 24DD DUPLEX,"JRC-24DD DuplEX - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.1 GHz","JRC-24DD DuplEX - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.1 GHz","3,824.74"
+JR-JRC 24DD SX DUPLEX,"JRC-24DD-SX DuplEX - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.1 GHz","JRC-24DD-SX DuplEX - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.1 GHz","4,188.81"
+JR-JRC 24DD DUPLEX PREC,"JRC-24DD DuplEX - Precision - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.1 GHz","JRC-24DD DuplEX - Precision - Ø 400 mm, Aluminium alloy, 24.5 ± 1 dBi, 9.0?, 4.9 – 6.1 GHz","6,947.85"
+JR-JRC 29 MIMO NTYPE,"JRC-29 MIMO - ø 650 mm, 28dBi, 5.4 - 5.9 GHz, 5,8°, 28.6dBi","JRC-29 MIMO - ø 650 mm, 28dBi, 5.4 - 5.9 GHz, 5,8°, 28.6dBi","2,935.62"
+JR-JRC 29DD MIMO,"JRC-29DD MIMO - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.8?, 4.9 – 6.4 GHz","JRC-29DD MIMO - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.8?, 4.9 – 6.4 GHz","4,243.35"
+JR-JRC 29DD SX MIMO,"JRC-29DD-SX MIMO - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.5?, 4.9 – 6.4 GHz","JRC-29DD-SX MIMO - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.5?, 4.9 – 6.4 GHz","4,682.60"
+JR-JRC 29DD MIMO PREC,"JRC-29DD MIMO - Precision - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.5?, 4.9 – 6.4 GHz","JRC-29DD MIMO - Precision - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.5?, 4.9 – 6.4 GHz","7,715.51"
+JR-JRC 29DD DUPLEX,"JRC-29DD DuplEX - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.5?, 4.9 – 6.1 GHz","JRC-29DD DuplEX - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.5?, 4.9 – 6.1 GHz","5,068.50"
+JR-JRC 29EX MIMO,"JRC-29EX MIMO - ø 650 mm, 28,6 ±0,6dBi, 5,8°, 5,4 - 5,9 GHz","JRC-29EX MIMO - ø 650 mm, 28,6 ±0,6dBi, 5,8°, 5,4 - 5,9 GHz","2,693.00"
+JR-JRC 29 DUPLEX,"JRC-29 DuplEX - ø 650 mm, 28.6dBi,  5,8°, 5,45 - 5,9 GHz,  ","JRC-29 DuplEX - ø 650 mm, 28.6dBi,  5,8°, 5,45 - 5,9 GHz,  ","3,664.00"
+JR-JRC 29DD DUPLEX,"JRC-29DD DuplEX - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.5?, 4.9 – 6.1 GHz","JRC-29DD DuplEX - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.5?, 4.9 – 6.1 GHz","5,068.50"
+JR-JRC 29DD MIMO,"JRC-29DD MIMO - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.8?, 4.9 – 6.4 GHz","JRC-29DD MIMO - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.8?, 4.9 – 6.4 GHz","4,243.35"
+JR-JRC 29DD DUPLEX PREC,"JRC-29DD DuplEX - Precision - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.5, 4.9 – 6.1 GHz","JRC-29DD DuplEX - Precision - Ø 680 mm, Aluminium alloy, 29.0 ± 1 dBi, 5.5, 4.9 – 6.1 GHz","8,653.85"
+JR-JRC 32 DUPLEX PREC,"JRC-32 DuplEX - Precision - ø900 mm, Frequency range 5,45 - 5,85 GHz, 32.2 dBi, 4,1°","JRC-32 DuplEX - Precision - ø900 mm, Frequency range 5,45 - 5,85 GHz, 32.2 dBi, 4,1°","7,976.00"
+JR-JRC 32DD DUPLEX PREC,"JRC–32DD DuplEX Precision - Ø 900 mm, Aluminium alloy, 32.1 ± 1 dBi, 4.3?, 5.1 – 6.1 GHz","JRC–32DD DuplEX Precision - Ø 900 mm, Aluminium alloy, 32.1 ± 1 dBi, 4.3?, 5.1 – 6.1 GHz","11,646.96"
+JR-JRC 32DD MIMO,"JRC–32DD MIMO Precision - Ø 900 mm, Aluminium alloy, 32.1 ± 1 dBi, 4.3?, 4.9 – 6.4 GHz","JRC–32DD MIMO Precision - Ø 900 mm, Aluminium alloy, 32.1 ± 1 dBi, 4.3?, 4.9 – 6.4 GHz","10,471.89"
+JR-JRC 35 DUPLEX PREC,"JRC-35 DuplEX - Precision - ø 1200 mm, Frequency range 5.45 - 5.85 GHz, 34dBi, 3.1°","JRC-35 DuplEX - Precision - ø 1200 mm, Frequency range 5.45 - 5.85 GHz, 34dBi, 3.1°","11,196.00"
+JR-JRMC 680 10 11RA,"JRMC-680-10/11Ra - ø 680 mm, Frequency range 10.0 - 11.7 GHz, 36dBi, 3°, wave guide","JRMC-680-10/11Ra - ø 680 mm, Frequency range 10.0 - 11.7 GHz, 36dBi, 3°, wave guide","7,086.11"
+JR-JXAF 11,JXAF-11 adapter kit for UBNT 11x,JXAF-11 adapter kit for UBNT 11x,"2,262.30"
+ViBE Licence,ViBE Base Licence- For Mikrotik RB951/RB750 models,ViBE Base Licence- For Mikrotik RB951/RB750 models,400
+MK-RB750r2,"MikroTik 750R2, 5portFE","MikroTik 750R2, 5portFE",727
+MK-RB750Gr3,"MikroTik RB750Gr3 5GB/Eth,1POE In,256Mb Ram,880MHz","MikroTik RB750Gr3 5GB/Eth,1POE In,256Mb Ram,880MHz","1,050.00"
+MK-RB750UPr2,"MikroTik 750UPR2, 5Eth ,4POE Out, 1POE In, 64Mb","MikroTik 750UPR2, 5Eth ,4POE Out, 1POE In, 64Mb",726
+MK-RB760iGS,"MikroTik hEX S with Dual Core 880MHz MHz CPU,256MB","MikroTik hEX S with Dual Core 880MHz MHz CPU,256MB","1,149.00"
+MK-RB2011iL RM,"MikroTik 5Gb/Eth, 5Eth,600MHz,64Mb RAM, Rack Mount","MikroTik 5Gb/Eth, 5Eth,600MHz,64Mb RAM, Rack Mount","1,549.00"
+MK-RB960PGS,"MikroTik hEX POE,GBE,5Port,POE Out, SFP","MikroTik hEX POE,GBE,5Port,POE Out, SFP","1,140.00"
+MK-RB2011iL IN,"MikroTik 5Gb/Eth, 5Eth, 600MHz,64Mb RAM","MikroTik 5Gb/Eth, 5Eth, 600MHz,64Mb RAM","1,469.00"
+MK-RB2011UiAS RM,"MikroTik 5Gb/Eth, 5Eth, 600MHz, 128Mb, 1SFP, Rack Mount","MikroTik 5Gb/Eth, 5Eth, 600MHz, 128Mb, 1SFP, Rack Mount","1,929.00"
+MK-RB2011iLS IN,"MikroTik 5Gb/Eth, 5Eth,1SFP, 600MHz,64Mb RAM","MikroTik 5Gb/Eth, 5Eth,1SFP, 600MHz,64Mb RAM","1,690.01"
+MK-RB2011UiAS IN,"MikroTik 5Gb/Eth, 5Eth,1SFP, 600MHz,128Mb RAM","MikroTik 5Gb/Eth, 5Eth,1SFP, 600MHz,128Mb RAM","1,821.70"
+MK-RB2011UiAS 2HnD,"MikroTik 5Gb/Eth, 5Eth,1SFP, 600MHz,128Mb RAM","MikroTik 5Gb/Eth, 5Eth,1SFP, 600MHz,128Mb RAM","1,975.34"
+MK-RB3011UiAS RM,"MikroTik 10GB/Eth, 1SFP, 1POE, 1Gb Ram, 1.4GHz CPU, Rack Mount","MikroTik 10GB/Eth, 1SFP, 1POE, 1Gb Ram, 1.4GHz CPU, Rack Mount","3,106.00"
+MK-RB4011iGS+RM,"MikroTik 10x1Gb, 1xSFP+, 10Gb, 1Gb RAM, 1U","MikroTik 10x1Gb, 1xSFP+, 10Gb, 1Gb RAM, 1U","3,050.80"
+MK-RB4011iGS+5HacQ2HnDIN,"MikroTik 10x1Gb, 1xSFP+, 10Gb, 1Gb RAM, 5Ghz & 2Ghz Wifi","MikroTik 10x1Gb, 1xSFP+, 10Gb, 1Gb RAM, 5Ghz & 2Ghz Wifi","3,241.00"
+MK-RB1100AHx4 ,"MikroTik RB1100AH4, 4-cores, 1.4GHz per core), 1GB RAM, 13xGbit LAN","MikroTik RB1100AH4, 4-cores, 1.4GHz per core), 1GB RAM, 13xGbit LAN","4,279.91"
+MK-RB1100AHX4 DUDE,"MikroTik 1.4GHz per core, 1GB RAM, 13xGbit LAN, 60GB, 1U rackmount case, Dual PSU","MikroTik 1.4GHz per core, 1GB RAM, 13xGbit LAN, 60GB, 1U rackmount case, Dual PSU","5,465.11"
+MK-CCR1009 7G 1C PC,"MikroTik 7GB/Eth, 1SFP Combo, 1Ghz CPU, 1GB RAM, Passive Cooling","MikroTik 7GB/Eth, 1SFP Combo, 1Ghz CPU, 1GB RAM, Passive Cooling","6,978.00"
+MK-CCR1009 7G 1C 1S+,"MikroTik 7GB/Eth, 1SFP Combo, 1.2Ghz CPU, 2GB RAM, ","MikroTik 7GB/Eth, 1SFP Combo, 1.2Ghz CPU, 2GB RAM, ","7,572.14"
+MK-CCR1009-7G-1C1SP,"MikroTik 7Gb/Eth,1Combo Port,1SFP+,Passive Cooling","MikroTik 7Gb/Eth,1Combo Port,1SFP+,Passive Cooling","5,537.60"
+MK-CCR1009 7G 1C 1S+PC,"MikroTik 7GB/Eth, 1SFP Combo, 1Ghz CPU, 2GB RAM, Passive Cooling","MikroTik 7GB/Eth, 1SFP Combo, 1Ghz CPU, 2GB RAM, Passive Cooling","6,035.00"
+MK-CCR1016 12G,"MikroTik CCR1016, 12GB/Eth, 2GB Ram","MikroTik CCR1016, 12GB/Eth, 2GB Ram","8,128.00"
+MK-CCR1016 12S 1S+,"MikroTik CCR1016, 2GB Ram, 12SFP,1SFP+","MikroTik CCR1016, 2GB Ram, 12SFP,1SFP+","11,435.03"
+MK-CCR1036 12G 4S,"MikroTik CCR1036, 12GB/Eth, 4GB Ram, 4SFP","MikroTik CCR1036, 12GB/Eth, 4GB Ram, 4SFP","15,254.02"
+MK-CCR1036 8G 2S+,"MikroTik CCR1036, 8GB/Eth, 4GB Ram, 2SFP+","MikroTik CCR1036, 8GB/Eth, 4GB Ram, 2SFP+","16,790.40"
+MK-CCR1072 1G 8S+,"MikroTik CCR1072, 1GB/Eth, 16GB Ram, 8SFP+","MikroTik CCR1072, 1GB/Eth, 16GB Ram, 8SFP+","46,859.48"
+MK-CCR1036 8G 2S+EM,"MikroTik CCR1036-8G-2S+EM, 8GB/Eth, 4GB RAM, 2SFP+EM","MikroTik CCR1036-8G-2S+EM, 8GB/Eth, 4GB RAM, 2SFP+EM","19,863.15"
+MK-CSS106 5G 1S,"MikroTik Gigabit 5 Port Switch, 1SFP","MikroTik Gigabit 5 Port Switch, 1SFP",690
+MK-RB260GSP,"MikroTik Gigabit 5 Port Switch, 1SFP, 4POE Out","MikroTik Gigabit 5 Port Switch, 1SFP, 4POE Out",714
+MK-CRS105 5S FB,"MikroTik FiberBox with 400MHz CPU,128MB RAM,5xSFP","MikroTik FiberBox with 400MHz CPU,128MB RAM,5xSFP","1,207.15"
+MK-CRS109 8G1S 2HnD,"MikroTik CRS109, 8GB/Eth, 128MB Ram, 1SFP, 802.11n","MikroTik CRS109, 8GB/Eth, 128MB Ram, 1SFP, 802.11n","2,304.56"
+MK-CRS112 8G 4S IN,"MikroTik CRS112, 8GB/Eth, 128MB Ram, 4SFP","MikroTik CRS112, 8GB/Eth, 128MB Ram, 4SFP","2,128.98"
+MK-CRS112 8P 4S IN,"MikroTik CRS112,8GB/Eth,POE, POE+,DC, 4SFP","MikroTik CRS112,8GB/Eth,POE, POE+,DC, 4SFP","2,754.00"
+MK-CRS125 24G 1S IN,"MikroTik L3 Switch,802.11b/g/n,24G/Eth,1SFP,IN","MikroTik L3 Switch,802.11b/g/n,24G/Eth,1SFP,IN","2,984.96"
+MK-CRS326 24G 2S+RM,"MikroTik CRS326 24GB/Eth, 2SFP+, Rack Mount","MikroTik CRS326 24GB/Eth, 2SFP+, Rack Mount","3,050.80"
+MK-CRS212 1G 10S 1S,"MikroTik CRS212 Switch,64MB,1GB/Eth-10SFP-1SFP+","MikroTik CRS212 Switch,64MB,1GB/Eth-10SFP-1SFP+","3,358.08"
+MK-CRS317 1G 16S+RM,"MikroTik CRS317 800MHz CPU,1GB,1xGbEth,16xSFP+,PC","MikroTik CRS317 800MHz CPU,1GB,1xGbEth,16xSFP+,PC","6,164.00"
+MK-CRS328 24P 4S+RM,"MikroTik Switch 28 Port POE+, SFP+, Router OS","MikroTik Switch 28 Port POE+, SFP+, Router OS","6,123.56"
+MK-CRS328 4C 20S 4S+RM,MikroTik CRS328-4C-20S-4S+RM,MikroTik CRS328-4C-20S-4S+RM,"5,475.00"
+MK-RBwAP2nD,MikroTik wAP With White Enclosure,MikroTik wAP With White Enclosure,680.4
+MK-DISC Lite5,"MikroTik DISC Lite5 with 21dBi 5GHz antenna, Dual Chain 802.11an","MikroTik DISC Lite5 with 21dBi 5GHz antenna, Dual Chain 802.11an",724.29
+MK-RBSXTsqG 5acD,"MikroTik RBSXTsqG-5acD,16dBi 5GHz,802.11ac, ","MikroTik RBSXTsqG-5acD,16dBi 5GHz,802.11ac, ",607.24
+MK-RBLHG 5nD,MikroTik Light Head Grid 24.5dBi Dual Chain,MikroTik Light Head Grid 24.5dBi Dual Chain,877.93
+MK-RBGROOVE 52HPn,"MikroTik Groove 52, 2.4GHz / 5GHz 802.11abgn, 600MHz CPU, 1x LAN","MikroTik Groove 52, 2.4GHz / 5GHz 802.11abgn, 600MHz CPU, 1x LAN",899.88
+MK-RBSXT 5nDr2,"MikroTik SXT Lite5, 5Ghz 16dBi, 1Eth, 802.11n","MikroTik SXT Lite5, 5Ghz 16dBi, 1Eth, 802.11n",899.88
+MK-RBSXT5HacD2n,"MikroTik SXT Lite5 AC, 16dBi, 2.4/5GHz, 802.11ac","MikroTik SXT Lite5 AC, 16dBi, 2.4/5GHz, 802.11ac",965.72
+MK-RBSXTsq5HPnD,MikroTik SXT sq5,MikroTik SXT sq5,768.19
+MK-LDF 2nD,MikroTik LDF 2 with 10dBi integrated 2.4GHz antenna,MikroTik LDF 2 with 10dBi integrated 2.4GHz antenna,592.6
+MK-RBLHG 5HPND,"MikroTik, RBLHG-5HPnD, 24.5dBi 5GHz,802.11an ","MikroTik, RBLHG-5HPnD, 24.5dBi 5GHz,802.11an ","1,053.52"
+MK-RBSXTG2HnD,"MikroTik AP/CPE,2.4GHz,60° 2x2 MIMO,10dbi,1600m","MikroTik AP/CPE,2.4GHz,60° 2x2 MIMO,10dbi,1600m","1,207.15"
+MK-RBGrooveG 52HPacN,"MikroTik GrooveG, 1GB/Eth,2.4/5GHz, 802.11 ac","MikroTik GrooveG, 1GB/Eth,2.4/5GHz, 802.11 ac",897.86
+MK-RBLHG 5HPND XL,"MikroTik RBLHG-5HPnD-XL,27dBi 5GHz, 802.11an, ","MikroTik RBLHG-5HPnD-XL,27dBi 5GHz, 802.11an, ","1,296.00"
+MK-RBLHGG 5acD,"MikroTik LHG 5 ac 24.5dBi, 5GHz, 1GBE 802.11AC","MikroTik LHG 5 ac 24.5dBi, 5GHz, 1GBE 802.11AC","1,360.79"
+MK-RBLHGG 5acD XL,"MikroTik LHG 5 ac 27dBi, 5GHz, 1GBE 802.11AC","MikroTik LHG 5 ac 27dBi, 5GHz, 1GBE 802.11AC","1,536.38"
+BU-RBLHGG60ad,"MikroTik LHG60G, 60 GHz link, 1.8 Gb/s,1Gb/Eth 1/2","MikroTik LHG60G, 60 GHz link, 1.8 Gb/s,1Gb/Eth 1/2","4,609.13"
+MK-RB912UAG 5HPnD OUT,"MikroTik Base Box 5, PRSMA, 802.11n, 1GB/Eth, CPE","MikroTik Base Box 5, PRSMA, 802.11n, 1GB/Eth, CPE","1,364.00"
+MK-RB912UAG 2HPnD OUT,"MikroTik BaseBox2, 2.4Ghz,802.11b/g/n,1Gb/Eth,SMA","MikroTik BaseBox2, 2.4Ghz,802.11b/g/n,1Gb/Eth,SMA","1,230.00"
+MK-RBGrooveGA 52HPacN,"MikroTik-GrooveA, 1GB/Eth,2.4/5GHz, 802.11 ac","MikroTik-GrooveA, 1GB/Eth,2.4/5GHz, 802.11 ac","1,536.38"
+MK-RBMetal5SHPn,MikroTik L4 Metal Outdoor WiFi Radio 5Ghz,MikroTik L4 Metal Outdoor WiFi Radio 5Ghz,"1,142.15"
+MK-RB911G 5HPacD NB,"MikroTik NetBox 5,CPE,RP-SMA,802.11a/n/ac,1GEth","MikroTik NetBox 5,CPE,RP-SMA,802.11a/n/ac,1GEth","1,733.91"
+MK-RBMETALG 52SHPACN,"MikroTik Metal 52ac, 1GB/Eth, 2.4/5GHz, 802.11n/ac","MikroTik Metal 52ac, 1GB/Eth, 2.4/5GHz, 802.11n/ac","1,821.70"
+MK-RBSXT 2nDr2,"MikroTik SXT ""Lite 2"" 2.4GHz CPE","MikroTik SXT ""Lite 2"" 2.4GHz CPE",768.19
+MK-RBSXTLTE3 7,"MikroTik SXT LTE Category 3, 4G only, 1Eth","MikroTik SXT LTE Category 3, 4G only, 1Eth","1,975.34"
+MK-RB912R 2nD LTm,"MikroTik RB912R-2nD-LTm, LtAP mini, 3G/4G, 10/100 Eth LAN","MikroTik RB912R-2nD-LTm, LtAP mini, 3G/4G, 10/100 Eth LAN","1,106.00"
+MK-RB912R 2ND LTM&R11E L,"MikroTik RB912R-2nD-LTm&R11e-LTE, 650MHz CPU, 64MB RAM,1xLAN","MikroTik RB912R-2nD-LTm&R11e-LTE, 650MHz CPU, 64MB RAM,1xLAN","1,580.00"
+MK-RBSXTR&R11e LTE,"MikroTik LTE Weather Proof LTE CPE / Modem, 2G/3G/4G, dual SIM, 2Eth","MikroTik LTE Weather Proof LTE CPE / Modem, 2G/3G/4G, dual SIM, 2Eth","1,992.00"
+MK-RB921UAGS 5SHPacD NM,"MikroTik NetMetal 5, 802.11a/n/ac, PRSMA, 1SFP","MikroTik NetMetal 5, 802.11a/n/ac, PRSMA, 1SFP","2,436.25"
+MK-RB921UAGS 5SHPACT NM,"MikroTik NetMetal 5SHPn triple 720MHz CPU, 128MB RAM, 1xGigabit LAN","MikroTik NetMetal 5SHPn triple 720MHz CPU, 128MB RAM, 1xGigabit LAN","2,589.89"
+MK-RB922UAGS 5HPacD NM,MikroTik 5GHz Net Metal Dual Chain,MikroTik 5GHz Net Metal Dual Chain,"2,282.62"
+MK-RB922UAGS 5HPacT NM,"MikroTik NetMetal 5,PRSMA,1SFP,3G/4G Sim,802.11 ac","MikroTik NetMetal 5,PRSMA,1SFP,3G/4G Sim,802.11 ac","2,436.25"
+MK-RBQRTG 2SHPnD,"MikroTik QRT-2 (RouterOS L4), PSU, GB, POE","MikroTik QRT-2 (RouterOS L4), PSU, GB, POE","2,304.56"
+MK-DynaDishG 5HacD,"MikroTik DynaDish 5GHz Integrated 25dBi, 802.11ac,","MikroTik DynaDish 5GHz Integrated 25dBi, 802.11ac,","2,392.36"
+MK-RBLHG 60ad,"MikroTik RBLHG-60ad, LHG Lite60, 650MHz, 64MB RAM","MikroTik RBLHG-60ad, LHG Lite60, 650MHz, 64MB RAM","1,632.40"
+MK-RBLHG 5nD 3,"MikroTik Light Head Grid 24.5dBi Dual Chain, 3pack","MikroTik Light Head Grid 24.5dBi Dual Chain, 3pack","2,633.79"
+MK-RB911G 5HPacD QRT,"MikroTik 24dBi 5GHz 11°, Dual Chain 802.11ac wireless, 720MHz CPU, 128MB RAM","MikroTik 24dBi 5GHz 11°, Dual Chain 802.11ac wireless, 720MHz CPU, 128MB RAM","3,050.80"
+MK-RB911G 5HPnD QRT,"MikroTik QRT-5 With Case, International Version","MikroTik QRT-5 With Case, International Version","2,589.89"
+MK-RBwAPG 60ad A,"MikroTik 60 GHz AP, 60°, 200m, 8 clients","MikroTik 60 GHz AP, 60°, 200m, 8 clients","1,975.34"
+MK-RBwAPG 60ad,"MikroTik 60 GHz CPE, Indoor & Outdoor","MikroTik 60 GHz CPE, Indoor & Outdoor","1,558.32"
+MK-RBwAPG 60ad kit,"MikroTik Wireless Wire Link, 60Ghz, 1GB/FD, 1GBE","MikroTik Wireless Wire Link, 60Ghz, 1GB/FD, 1GBE","3,116.65"
+MK-RBLHGR&11eLTE,"MikroTik LHG LTE CPE single sim, 1 Eth","MikroTik LHG LTE CPE single sim, 1 Eth","3,649.00"
+MK-RBSXTSQ2ND,"MikroTik RBSXTsq2nD, SXTsq Lite2, 650MHz, 64MB RAM, 1LAN","MikroTik RBSXTsq2nD, SXTsq Lite2, 650MHz, 64MB RAM, 1LAN",592.6
+MK-RB921GS 5HPacD 19S,"MikroTik RB921GS-5HPacD-19S, mANTBox 19s, 128MB RAM,1SFP","MikroTik RB921GS-5HPacD-19S, mANTBox 19s, 128MB RAM,1SFP","3,050.80"
+MK-RB931 2nD,MikroTik RB931-2nD hAP Mini With Router,MikroTik RB931-2nD hAP Mini With Router,349
+MK-RB941 2ND,"MikroTik hAP Lite Classic,32MB Ram,4Eth,802.11n","MikroTik hAP Lite Classic,32MB Ram,4Eth,802.11n",390
+MK-RB941 2nD TC,"MikroTik hAP Lite, 4Eth, 802.11n, 32MB Ram, 650MHz","MikroTik hAP Lite, 4Eth, 802.11n, 32MB Ram, 650MHz",390
+MK-RBmAPl 2nD,"MikroTik Micro AP Lite, 2.4Ghz, 1Eth, 802.11n","MikroTik Micro AP Lite, 2.4Ghz, 1Eth, 802.11n",395.07
+MK-RBmAP2n,"MikroTik Micro AP, 2.4Ghz, 2Eth, 1POE Out","MikroTik Micro AP, 2.4Ghz, 2Eth, 1POE Out",691.37
+MK-RB951Ui 2nD,"MikroTik hAP, 5Eth, 802.11n, 64MB, 650MHz, 2.4GHz","MikroTik hAP, 5Eth, 802.11n, 64MB, 650MHz, 2.4GHz",753
+MK-RbcAP2nD,"MikroTik Ceiling AP, 2.4GHz, 802.11n, 2dBi","MikroTik Ceiling AP, 2.4GHz, 802.11n, 2dBi",603
+MK-RBcAPGi 5acD2nD,"MikroTik RbcAPGi-5acD2nD with 716MHz CPU,128MB RAm","MikroTik RbcAPGi-5acD2nD with 716MHz CPU,128MB RAm",989
+MK-RB952UI 5AC2ND,"MikroTik hAP ac Lite,2.4/5GHz, 5Eth,1POE Out,Usb","MikroTik hAP ac Lite,2.4/5GHz, 5Eth,1POE Out,Usb",768.19
+MK-RB952UI 5AC2ND TC,"MikroTik RB952Ui-5ac2nD-TC, hAP ac lite TC 64MB RAM,5xLAN","MikroTik RB952Ui-5ac2nD-TC, hAP ac lite TC 64MB RAM,5xLAN",768.19
+MK-RB951Ui 2HnD,"MikroTik RB, 5Eth, 1000mW, 802.11n, 2.4GHz","MikroTik RB, 5Eth, 1000mW, 802.11n, 2.4GHz","1,020.00"
+MK-RB951G 2Hnd,"MikroTik RB951G, 5GB/Eth, 1000mW, 802.11n, 2.4GHz","MikroTik RB951G, 5GB/Eth, 1000mW, 802.11n, 2.4GHz","1,228.00"
+MK-RBwAPG 5HacT2HnD,"MikroTik wAPac 2.4/5GHz, 802.11ac, 1GB/Eth","MikroTik wAPac 2.4/5GHz, 802.11ac, 1GB/Eth","1,360.79"
+MK-RBwAPR 2nD&R11e LTE,"MikroTik WAPR LTE, 2.4Ghz 802.11n, integrated antenna,  LTE modem","MikroTik WAPR LTE, 2.4Ghz 802.11n, integrated antenna,  LTE modem","2,076.00"
+MK-RB962UiGS 5HacT2,"MikroTik hAP AC, 2.4/5GHz, 802.11ac, 5GB/Eth, 1POE","MikroTik hAP AC, 2.4/5GHz, 802.11ac, 5GB/Eth, 1POE","1,975.34"
+MK-RBD52G 5HacD2HnD,"MikroTik hAP ac2 TC, 2.4/5GHz, 4GBE, 128mb,716 MHz","MikroTik hAP ac2 TC, 2.4/5GHz, 4GBE, 128mb,716 MHz","1,053.52"
+MK-QM,MikroTik QuickMOUNT for small antennas,MikroTik QuickMOUNT for small antennas,43.9
+MK-QMP LHG ,MikroTik QuickMOUNT PRO for LHG antennas,MikroTik QuickMOUNT PRO for LHG antennas,98.77
+MK-QMP,MikroTik QuickMOUNT PRO for small antennas,MikroTik QuickMOUNT PRO for small antennas,106
+MK-ACRPSMA,MikroTik Flex-Guide 0.5M SMA-SMA Cable,MikroTik Flex-Guide 0.5M SMA-SMA Cable,131.69
+MK-S+DA0001 ,"MikroTik SFP/SFP+ direct attach cable, 1m ","MikroTik SFP/SFP+ direct attach cable, 1m ",438.96
+MK-S+DA0003,"MikroTik SFP/SFP+, Direct Attach Cable, 3m","MikroTik SFP/SFP+, Direct Attach Cable, 3m",592.6
+MK-S+2332LC10D,"MikroTik SFP module pair bidirectional, 10G,10Km","MikroTik SFP module pair bidirectional, 10G,10Km","5,355.37"
+MK-S 3553LC20D,"MikroTik SFP Module Pair, SM 20km T1550nm/R1310nm","MikroTik SFP Module Pair, SM 20km T1550nm/R1310nm","1,075.46"
+MK-S 85DLC05D,"MikroTik MultiMode,1SFP,LC,850nm,550m,DDM","MikroTik MultiMode,1SFP,LC,850nm,550m,DDM",282
+MK-S+85DLC03D,"MikroTik SFP+ Module 10G MultiMode 300m, 850nm","MikroTik SFP+ Module 10G MultiMode 300m, 850nm",699
+MK-S 31DLC20D,"MikroTik SingleMode,1SFP,LC,1.25G,1310nm,20km,DDM","MikroTik SingleMode,1SFP,LC,1.25G,1310nm,20km,DDM",351.17
+MK-S RJ01,"MikroTik RJ45,SFP,1Gb","MikroTik RJ45,SFP,1Gb",359
+MK-FTCC11,"MikroTik Fiber to Copper Converter, 1SFP","MikroTik Fiber to Copper Converter, 1SFP",592.6
+MK-S+31DLC10D,MikroTik SFP+ module 10G SM 10km 1310nm,MikroTik SFP+ module 10G SM 10km 1310nm,"2,194.82"
+MK-S+RJ01,MikroTik SF+10/100/1000M/2.5G/5G/10G copper module,MikroTik SF+10/100/1000M/2.5G/5G/10G copper module,987.67
+MK-RBGESP,"MikroTik, GESP, Gigabit Ethernet Surge Protector","MikroTik, GESP, Gigabit Ethernet Surge Protector",197.53
+MK-K 65,Mikrotik Rackmount Ears Set for RB4011 series,Mikrotik Rackmount Ears Set for RB4011 series,65.84
+MK-MTAS 5G 15D120,"MikroTik mAnT15dBi,120°,10°, Sector,5.1-5.8GHz,SMA","MikroTik mAnT15dBi,120°,10°, Sector,5.1-5.8GHz,SMA",768.19
+MK-MTAS 5G 19D120,"MikroTik mAnT19dBi,120°,5°, Sector,5.1-5.82GHz,SMA","MikroTik mAnT19dBi,120°,5°, Sector,5.1-5.82GHz,SMA","1,647.00"
+MK-MTAD 5G 30D3PA,"MikroTik 5GHz 30dBi Dish, 3° PA, 4.7-5.875GHz","MikroTik 5GHz 30dBi Dish, 3° PA, 4.7-5.875GHz","1,953.39"
+MK-48POW,MikroTik 48V 1.46A 70W power supply + power plug,MikroTik 48V 1.46A 70W power supply + power plug,210
+MK-RBGESP,"MikroTik, GESP, Gigabit Ethernet Surge Protector","MikroTik, GESP, Gigabit Ethernet Surge Protector",197.53
+MM-A5X,"A5X, Connectorized 4.9-6.4GHZ 2X2 PTMP Access Point","A5X, Connectorized 4.9-6.4GHZ 2X2 PTMP Access Point","4,990.00"
+MM-B5,"5Ghz Up to 1.5Gbps IP aggregate, MIMO OFDM 4x4:4, Integrated 25dBi Antenna, POE included","5Ghz Up to 1.5Gbps IP aggregate, MIMO OFDM 4x4:4, Integrated 25dBi Antenna, POE included","11,856.00"
+MM-B5C,"5Ghz Up to 1.5Gbps IP aggregate, MIMO OFDM 4x4:4, Requires antenna, POE included","5Ghz Up to 1.5Gbps IP aggregate, MIMO OFDM 4x4:4, Requires antenna, POE included","6,533.00"
+MM-B5 LITE PT1,"5Ghz 750Mbps Max Throughput, MIMO OFDM 2x2:2, 2 x Radios per box, with J-Mount and POE","5Ghz 750Mbps Max Throughput, MIMO OFDM 2x2:2, 2 x Radios per box, with J-Mount and POE","5,702.00"
+MM-GIG POE56V,"Mimosa PoE 56V, POE Brick","Mimosa PoE 56V, POE Brick","1,069.00"
+MM-POE WP,"Gigabit POE Injector, 56V passive PoE Wall Plug","Gigabit POE Injector, 56V passive PoE Wall Plug",190
+MM-B11,"10-11.7 Ghz Up to 1.5Gbps IP aggregate, MIMO OFDM 4x4:4, Requires antenna, POE included","10-11.7 Ghz Up to 1.5Gbps IP aggregate, MIMO OFDM 4x4:4, Requires antenna, POE included","30,888.00"
+MM-A5 14,Mimosa 14dBi 4x4 MU-MIMO 360 Quad-panel,Mimosa 14dBi 4x4 MU-MIMO 360 Quad-panel,"15,800.00"
+MM-A5C,Mimosa A5c Multipoint Connectorized Access Point,Mimosa A5c Multipoint Connectorized Access Point,"11,619.00"
+MM-C5,Mimosa Integrated Client Device 5GHz 20dBi,Mimosa Integrated Client Device 5GHz 20dBi,"1,877.00"
+MM-C5 BUNDLE,"C5/G2/Fleximount Bundle - C5 - 5 GHz, 20dBi 2x2 802.11ac PTMP client radio with intergrated  antenna;  Includes a Fleximount and G2 - comes with both Type A (NA) and Type C (EU) plugs.","C5/G2/Fleximount Bundle - C5 - 5 GHz, 20dBi 2x2 802.11ac PTMP client radio with intergrated  antenna;  Includes a Fleximount and G2 - comes with both Type A (NA) and Type C (EU) plugs.","2,661.00"
+MM-C5X,"4.9-6.4 GHz, 8 dBi Modular Radio, for PTMP or PTP, uses N5-X Antennas","4.9-6.4 GHz, 8 dBi Modular Radio, for PTMP or PTP, uses N5-X Antennas","1,616.00"
+MM-C5C,"Mimosa Connectorised Client Device ,5GHz, RRP-SMA (x2), 20dBm","Mimosa Connectorised Client Device ,5GHz, RRP-SMA (x2), 20dBm","1,925.00"
+MIM-G2,"Mimosa G2 Gateway, Cloud Managed, WIFI","Mimosa G2 Gateway, Cloud Managed, WIFI",665
+MM-JMOUNT,"Twist on the J-Mount, with extra axis of rotation to align the C5, to keep it level to the horizon. Single mount","Twist on the J-Mount, with extra axis of rotation to align the C5, to keep it level to the horizon. Single mount",237
+MM-FLEXIMOUNT,Compact flexible pole and surface mount. Allowing attachment to any,Compact flexible pole and surface mount. Allowing attachment to any,166
+MM-FLEXIMOUNT XL,"Compact flexible pole and surface mount. Allowing attachment to any, XL","Compact flexible pole and surface mount. Allowing attachment to any, XL",202
+MM-B24,"24 GHz, 33 dBi, 1.5Gbps capable PTP backhaul with GPS Sync, intergrated antenna, includes PoE Injector 56V, smart mounting bracket and pipe clamps (2)","24 GHz, 33 dBi, 1.5Gbps capable PTP backhaul with GPS Sync, intergrated antenna, includes PoE Injector 56V, smart mounting bracket and pipe clamps (2)","15,064.00"
+MM-NID,"Network Interface Device, technician's outdoor Ethernet access, ESD protection and grounding point. Recommended for ALL installations.","Network Interface Device, technician's outdoor Ethernet access, ESD protection and grounding point. Recommended for ALL installations.",237
+MM-N5 360,"4.9-6.4 GHz, 4x4 360 degree beamforming antenna for A5c, includes  LMR 240 Type N to Type N cables (4) and pipe clamps (2)","4.9-6.4 GHz, 4x4 360 degree beamforming antenna for A5c, includes  LMR 240 Type N to Type N cables (4) and pipe clamps (2)","4,966.00"
+MM-N5 45X2,"4.9-6.4 GHz 45 Deg Sector Antenna, 19 dBi gain, 2 Port , includes LMR 240 Type N to Type N cables (2) and mounting brackets (2)","4.9-6.4 GHz 45 Deg Sector Antenna, 19 dBi gain, 2 Port , includes LMR 240 Type N to Type N cables (2) and mounting brackets (2)","2,977.00"
+MM-N5 45X4,"4.9-6.4 GHz 45 Deg Sector Antenna, 22 dBi Beamforming gain, 4 Port , includes LMR 240 Type N to Type N cables (4) and mounting brackets (2)","4.9-6.4 GHz 45 Deg Sector Antenna, 22 dBi Beamforming gain, 4 Port , includes LMR 240 Type N to Type N cables (4) and mounting brackets (2)","5,821.00"
+MM-N5X12,"4.9-6.4 GHz Modular Twist-on Antenna, 70mm Horn for C5x only, 12 dBi gain","4.9-6.4 GHz Modular Twist-on Antenna, 70mm Horn for C5x only, 12 dBi gain",285
+MM-N5X16,"4.9-6.4 GHz Modular Twist-on Antenna, 150mm Horn for C5x only, 16 dBi gain","4.9-6.4 GHz Modular Twist-on Antenna, 150mm Horn for C5x only, 16 dBi gain",475
+MM-N5X20,"4.9-6.4 GHz Modular Twist-on Antenna, 250 mm Dish for C5x only, 20 dBi gain","4.9-6.4 GHz Modular Twist-on Antenna, 250 mm Dish for C5x only, 20 dBi gain",665
+MM-N5X25,"4.9-6.4 GHz ModularTwist-on Antenna 400mm Dish for C5x only, 25 dBi gain","4.9-6.4 GHz ModularTwist-on Antenna 400mm Dish for C5x only, 25 dBi gain",903
+RT-8663 BASE,"I Serve 8663 Base Unit, built in G729 Mod","I Serve 8663 Base Unit, built in G729 Mod","3,183.00"
+RT-8630 HAN,I Serve 8630 entry mid level handset,I Serve 8630 entry mid level handset,"1,646.00"
+RT-8632 HAN,I Serve 8632 Handset & Charger B/TiP65,I Serve 8632 Handset & Charger B/TiP65,"2,173.00"
+RT-8630 4024,"RTX 4024 Repeater, Up to 3 repeaters per base station, Max 3 repeaters in daisy chain","RTX 4024 Repeater, Up to 3 repeaters per base station, Max 3 repeaters in daisy chain","1,866.00"
+SN-D120,Snom D120,"2 Line Desktop Phone, POE, PSU not included",594
+SN-D305,Snom D305,"4 Line Desktop Phone, POE, PSU not included","1,016.00"
+SN-D315,Snom D315,"4 Line Destop Phone, POE, Gigabit Port, USB, PSU not included","1,408.93"
+SN-D345,Snom D345,"12 Line Business Phone, POE , Gigabit Port, USB, Second screen as graphical display, PSU not included","2,099.53"
+SN-D375,Snom D375,"12 Line Business Phone, POE , Gigabit Port, USB, 3-way conferencing on the phone, PSU not included","2,080.00"
+SN-D385,Snom D385,"12 ?SIP?, POE , Gigabit Port, ?Bluetooth, ?USB, 3-way conferencing on the phone, PSU not included ","2,696.54"
+SN-D712,Snom D712,"4-line display,1 x USB port,4 context-sensitive function keys,Wideband audio, PSU not included",675
+SN-D715,Snom D715,"4-line display, Gigabit port + 1 x USB port,4 context-sensitive function keys,Wideband audio, PSU not included","1,575.90"
+SN-D715 White,Snom D715 white,"4-line display, Gigabit port + 1 x USB port,4 context-sensitive function keys,Wideband audio, PSU not included","1,631.52"
+SN-D717,Snom D717,"4-line display, Gigabit port + 1 x USB port,4 context-sensitive function keys,Wideband audio, PSU not included","1,318.10"
+SN-D717 White,Snom D717 white,"4-line display, Gigabit port + 1 x USB port,4 context-sensitive function keys,Wideband audio, PSU not included","1,631.52"
+SN-D725,Snom D725,"12 Line Business Phone, POE, Gigabit Port, USB, PSU not included","2,243.34"
+SN-D735,Snom D735,"12 Line Business Phone, ?32 self-labeling keys, ?POE, Gigabit Port, USB, PSU not included","1,546.93"
+SN-D745,Snom D745,"12 Line Business Phone, POE , Gigabit Port, USB, Second screen as graphical display, PSU not included","2,160.00"
+SN-D765,Snom D765,"12 Line Business Phone, POE, Gigabit Port, USB, Bluetooth, PSU not included","2,696.54"
+SN-D785,Snom D785,"12 Line Business Phone, 2nd Screen, POE, Gigabit Port, USB, Bluetooth, PSU not included","1,690.00"
+SN-D785 White,Snom D785 white,"12 Line Business Phone, 2nd Screen, POE, Gigabit Port, USB, Bluetooth, PSU not included","2,696.54"
+SN-M15 SC,Snom M15 SC,DECT Handset for M215 SC,699.82
+SN-M215 SC,Snom M215 SC,DECT single cell solution with M200 base station and M15 handset ,"1,059.00"
+SN-M25,Snom M25,"DECT Handset for M325, HD Audio and Wideband","1,396.94"
+SN-M300EU,Snom M300 EU,M300 DECT base station Single-cell,"1,615.10"
+SN-M325,Snom M325,"Wireless (DECT) singlecell solution up to 5 sim. Calls, repeater support +includes 1 Handset","1,882.00"
+SN-M65,Snom M65,"DECT Handset for M700, HD Audio and Wideband","1,776.07"
+SN-M70,Snom M70,"M70, Ruggedized DECT handset","1,876.48"
+SN-M700,Snom M700,VoIP Cordless DECT Multicell Base Station - scalable to 40 bases and 200 handsets per solution,"3,270.94"
+SN-M80,Snom M80,"M80, IP65 Ruggedized DECT handset","2,654.79"
+SN-M85,Snom M85,DECT Ruggedized Handset for M300 and M700,"3,726.20"
+SN-M90,Snom M90,IP65 Ruggedized and Antibacterial DECT handset,"5,868.94"
+SN-M900,Snom M900,"M900, VoIP cordless DECT multicell base station","3,055.94"
+SN-M700 Bundle,Snom M700 Bundle,M700 multicell base station with A729 (G729 Codec),"4,061.34"
+SN-M900 Bundle,Snom M900 Bundle,M900 multicell base station with A900 (G729 and Opus Codec),"3,853.04"
+SN-C52 SP,Snom Speaker Phone,Snom DECT Speaker Phone,"1,840.20"
+SN-C520 Mic,Snom Conference C520 Microphone,Microphone for Conference C520,883.74
+SN-C520 WIMI,Snom Conference Phone,Snom C520 Conference Phone,"2,630.00"
+SN-MP,Snom Meeting Point,"Snom Conference Phone with POE, 30m2 range, 4 external participants","9,918.54"
+SN-MPEXP,Snom Meeting Point Expansion Mics,Expandable microphones for Snom Meeting Point. Set of 2 ,"2,022.68"
+FLY-001,Fly Lead ,"3 Meter Black CAT 5 Fly lead for IP phones , Priced at R9 ex when purchased together with any IP Phone",22.66
+SN-A100D,Snom Headset A100D,"Wideband Monaural Duo Headset, noise cancelling, for D3xx, D7xx series phones",714.9
+SN-A100M,Snom Headset A100M,"Wideband Monaural Headset, noise cancelling, for D3xx, D7xx series phones",590.68
+SN-A150,Snom Headset A150,Wireless Dect Headsets (available in three styles),"1,472.00"
+SN-A170,Snom Headset A170,Wireless Dect Headsets (available in three styles),"2,008.10"
+SN-A210 USB WIFI DONGLE,Snom A210,USB WiFi Dongle,363.57
+SN-A230 DECT DONGLE,Snom A230,USB DECT Dongle,522.37
+SN-A5,Snom A5,Power over Ethernet Injector,543.84
+SN-A729,Snom A729,G.729 Codec Input,791.4
+SN-A900,Snom A900,G729 and Opus Codec,791.4
+SN-AC,Snom Adapter Cable,Adapter cable for EHS wireless box,339.9
+SN-ACPJ25,Snom 2.5mm Adapter Cable,2.5mm Adapter Cable for A100M & A100D Headset,217.49
+SN-ACPJ,Snom 3.5mm Adapter Cable,3.5mm Adapter Cable for A100M & A100D Headset,217.49
+SN-ACUSB,Snom USB Adapter A100M & A100D,USB Adapter for A100M & A100D Headset,507.33
+SN-BATT,Snom Battery,Battery for M65/M85/C50 handset,169.95
+SN-CUR,Snom Curly Cord,Black curly telephone cord for 3xx series phones,90.64
+SN-D3,Snom D3,"Expansion Module USB for D375, D345 and D315","1,490.61"
+SN-D7,Snom D7,"Expansion Module USB for D765, D745, D725 and D715","1,812.80"
+SN-D7 White,Snom D7 white,"Expansion Module USB for D765, D745, D725 and D715, White","1,812.80"
+SN-HS,Snom Handset,Black handset for 3xx series phones,362.56
+SN-M5,Snom M5,M5 Range Extending Repeater Wideband,"1,716.35"
+SN-PA1,Snom PA1,"Public announcement system for offce foors, reception areas and waiting rooms","1,757.61"
+SN-PSU7,Snom Power Supplies ,"5W Power Supplies - for Snom D305, 710 and D710 models",181.28
+SN-PSU7,Snom Power Supplies ,10W PSU for all the Snom Desk Telephones,181.28
+SN-WH,Snom EHS Wireless Headset Adapter,"Assisting cordless headsets to integrate with Snom 320, 360, 370, 870",906.4
+YL-CP920,Yealink CP920,"Y Designed HD conference phone for small meeting rooms ,PoE","4,767.00"
+YL-CP930W,Yealink CP930W,Yealink Dect Conference phone with built in battery with PSU ,"6,431.00"
+YL-CP930WP,Yealink CP930W Package,"Yealink Dect Conference phone with built in battery with PSU, with W60B","7,133.00"
+YL-CP960,Yealink CP960,Yealink IP Conference Phone Without Expansion Microphones,"7,133.00"
+YL-CP900B,Yealink CP900 with Bluetooth,"Yealink Wireless Speaker with 6 Micpods, with BT50, 12 hour talk time, 450 days standby time","2,513.00"
+YL-CP700B,Yealink CP700 with Bluetooth usb,"Yealink Wireless Speaker with 2 Micpods, with BT50, 12 hour talk time, 450 days standby time","1,921.00"
+YL-CP700,Yealink CP700,"Yealink Wireless Speaker with 2 Micpods, without BT50,12 hour talk time, 450 days standby time","1,570.00"
+YL-CP900,Yealink CP900,"Yealink Wireless Speaker with 6 Micpods, wihtout Bluetooth,12 hour talk time, 450 days standby time","2,162.00"
+YL-CPE90,Yealink CPE90,Yealink CP960 Wired Expansion Microphones,"1,182.00"
+YL-CPW90,Yealink CPW90,Yealink CP960 Expansion Microphones,"2,383.00"
+YL-CPN10,Yealink CPN10,Analogue to IP converter,240
+YL-BT50,Yealink BT50,Yealink Bluetooth Adaptor for CP900,351
+YL-YLPOE30,Yealink YLPOE30,Yealink POE Adapter,480
+YL-T21 E2,Yealink T21 E2,"Entry Level IP Phone, 2 Voip Accounts, 2 x RJ45, HD Voice,  power supply included",757
+YL-T21P E2,Yealink T21P E2,"Entry Level IP Phone, 2 Voip Accounts, 2 x RJ45, HD Voice, POE, no power supply",813
+YL-T23G,Yealink T23G,"Professional IP Phone Gigabit, 3 Voip Accounts, 2 x RJ45, HD Voice, POE, no power supply",960
+YL-T27G,Yealink T27G,"Advanced IP Phone, 3 Voip Accounts, 2 x RJ45, HD Voice, POE, no power supply","1,589.00"
+YL-T29G,Yealink T29G,"Reception IP Phone, 6 Voip Accounts, 2 x RJ45, HD Voice, POE, no power supply","2,254.00"
+YL-EXP20,Yealink EXP20 Expansion Module,"20 programmable keys (max 6 modules per phone) for T27P, T29G","1,663.00"
+YL-T40P,Yealink T40P,"Professional IP Phone, 3 Voip Accounts, 2 x RJ45, HD Voice, POE, no power supply",850
+YL-T40G,Yealink T40G,"Professional Gigabit IP Phone, 3 Voip Accounts, 2 x RJ45, HD Voice, POE, no power supply",997
+YL-T41S,Yealink T41S,"Executive IP Phone, 3 Voip Accounts, 2 x RJ45, HD Voice, POE, no PSU","1,238.00"
+YL-T42S,Yealink T42S,"Gigabit Executive IP Phone, 3 Voip Accounts, 2 x RJ45, HD Voice, POE, no PSU","1,552.00"
+YL-T46S,Yealink T46S,"Gigabit Executive Colour Screen IP Phone, 6 Voip Accounts, 2 x RJ45, HD Voice, POE, no PSU","2,254.00"
+YL-T48S,Yealink T48S,"Gigabit Executive Colour Screen IP Phone, 6 Voip Accounts, 2 x RJ45, HD Voice, POE, no PSU","2,919.00"
+YL-EXP40,Yealink EXP40 Expansion Module,20 programmable keys LCD Screen for T4 Series ,"1,182.00"
+YL-VP59,Yealink VP59,"Flagship smart video phone,8” 1280x800-pixel color touch display, fully adjustable,1080p HD business video,27 touch memory keys, 16 SIP accounts,HDMI output,Call recording and wireless USB headset support.","7,854.00"
+YL-T58A,Yealink T58A,"Android 7"" Adjustable, Touch Screen Video Phone(excl CAM50), 16 Voip Accounts, Built in Bluetooth and WiFi POE,USB, no PSU","4,287.00"
+YL-T57W,Yealink T57W,"Premium-level phone, 7”color touch display, fully adjustable, 29 touch keys, 16 SIP accounts, Built-in Bluetooth, Wi-Fi,Dual-port Gigabit Ethernet,1xUSB","3,806.00"
+YL-T54W,Yealink T54W,"Mid-level phone,4.3"" color display, fully adjustable,10 line keys, 16 SIP accounts, 27 memory keys,Built-in Bluetooth, Wi-Fi,Dual-port Gigabit Ethernet,1xUSB","2,735.00"
+YL-T53W,Yealink T53W,"Entry-level phone, 3.7"" display, fully adjustable. 8 line keys, 12 SIP accounts, 21 memory keys,Dual-port Gigabit Ethernet,1 USB,Built-in Bluetooth, Wi-Fi","2,088.00"
+YL-T53,Yealink T53,"Entry-level phone, 3.7"" display, fully adjustable, 8 line keys, 12 SIP accounts, 21 memory keys,Dual-port Gigabit Ethernet,1 USB","1,829.00"
+YL-EXP50,Yealink EXP50 Expansion Module,"20 programmable keys per page, Colour Screen for T5 Android Series 3 pages","1,663.00"
+YL-CAM50,Yealink CAM50 Camera,720p Camera for the T58A,"1,182.00"
+YL-T55A,Yealink T55A,"SFB/Teams Only,
+• Optima HD voice, HAC Handset
+• 4.3"" 480 x 272 capacitive touch screen
+• Yealink Noise Proof Technology
+• 1 USB 2.0 port for USB headsets, Bluetooth dongle and Wi-Fi dongle
+• Dual-port Gigabit Ethernet, PoE support
+• Wall mountable
+• Based on Android OS, upgradability of firmware to Teams or SfB edition
+*Flexible upgradability of device applications for Teams or SfB users.","2,624.00"
+YL-T56A,Yealink T58A,"SFB/Teams Only, Optima HD voice, HAC Handset. 7"" 1024 x 600 capacitive touch screen. Yealink Noise Proof Technology. 1 USB 2.0 port for USB headsets, Bluetooth dongle and Wi-Fi dongle. Dual-port Gigabit Ethernet, PoE support. Supports expansion modules (Only for Skype for Business). Based on Android OS, upgradability of firmware to Teams or SfB edition. Flexible upgradability of device applications for Teams or SfB users","3,806.00"
+YL-T58A,Yealink T58A,"Android  7"" Adjustable, Touch Screen Video Phone(excl CAM50), 16 Voip Accounts, Built in Bluetooth and WiFi POE,USB, no PSU","4,287.00"
+YL-VP59,Yealink VP59,"Flagship smart video phone,8” 1280x800-pixel color touch display, fully adjustable,1080p HD business video,27 touch memory keys, 16 SIP accounts,HDMI output,Call recording and wireless USB headset support.","7,854.00"
+YL-CP960 TEAMS,Yealink CP960 Teams,Yealink IP Conference Phone Without Expansion Microphones,"7,133.00"
+YL-MVC800,Yealink MVC800,Mini-PC and cable management box. Yealink MTouch touch console. Yealink MShare for content sharing. UVC80 USB PTZ camera. 1×VCM34 array microphone. Yealink MSpeaker soundbar,"49,969.00"
+YL-MVC500 Wired,Yealink MVC500 wired,Mini-PC and cable management box. Yealink MTouch touch console. Yealink MShare for content sharing. UVC50 USB PTZ camera. 1×VCM34 array microphone. Yealink MSpeaker soundbar,"42,836.00"
+YL-MVC500 Wireless,Yealink MVC500-wireless,Mini-PC and cable management box. Yealink MTouch touch console. Yealink MShare for content sharing. UVC50 USB PTZ camera. 2×Wireless CPW90 DECT microphones.Yealink MSpeaker soundbar,"40,452.00"
+YL-MVC300,Yealink MVC300,"Mini-PC and cable management box
+• Yealink MTouch touch console
+• Yealink MShare for content sharing
+• UVC30 USB PTZ camera
+• CP900B","34,502.00"
+YL-VC210 CP900 TEAMS,Yealink VC210-CP900-TEAMS,"
+• VC210 USB PTZ camera
+• CP900B","17,851.00"
+YL-W80B,Yealink W80B,Yealink multi-cell base station,"3,215.00"
+YL-W80DM,Yealink W80DM,Yealink Multicell Base manager(1 needed per site),"3,215.00"
+YL-MC KIT,Yealink MCkit,Multi-cell deployment test kit,"8,334.00"
+YL-W60B,Yealink Dect W60B,Dect Solution Base  - 8 handset registrations with 8 concurrent Voip calls,720
+YL-W41P PT 1,Yealink Dect W41P,"DECT Deskphone Solution including W60B, SIP-T41S and DD10K DECT Dongle","2,180.00"
+YL-W52P,Yealink Dect W52P,Dect Solution Base + Handset - 5 handset registrations with 4 concurrent Voip calls,"1,459.00"
+YL-W52H,Yealink Dect W52H,Additional Handset for W52P,960
+YL-W53P,Yealink Dect W53P,Dect Solution Base + W53 Handset - 8 handset registrations with 8 concurrent Voip calls,"1,496.00"
+YL-W53H,Yealink Dect W53H,Additional Handset for W53P,"1,016.00"
+YL-W53H COVER,Yealink W53H protective cover,Yealink W53H Protective Case,240
+YL-W60P,Yealink Dect W60P,Dect Solution Base + W56 Handset - 8 handset registrations with 8 concurrent Voip calls,"1,663.00"
+YL-W59R,Yealink W59R,Ruggedized DECT Handset for W60B and W80B,"2,014.00"
+YL-W56H,Yealink Dect W56H,Additional Handset for W56P,"1,182.00"
+YL-W56H COVER,Yealink W56H protective cover,Yealink W56H Protective Case ,110
+YL-DD10K,Yealink DD10K,"Dect USB Dongle, T41S/T42S/T56A/T58A",240
+YL-RT30,Yealink RT30,DECT Phone Repeater for W52P,"1,663.00"
+YL-W53H B,Yealink W53H battery,Battery for the W53 Handset,166
+YL-W56H B,Yealink W56H Battery,Battery for the W56 Handset,221
+YL-YHS33,Yealink YHS33 Headset,RJ9 Monaural noice cancelling headset for Yealink phones,369
+YL-UH33,Yealink UH33 headset,USB and 3.5 mm Monaural noice cancelling headset for Yealink phones,517
+YL-UH36 DUO,Yealink UH36 Dual headset,"Yealink UH36-DUO, Midlevel USB headset Duo",960
+YL-UH36 DUO TEAMS,Yealink UH36 Dual headset Teams,"Yealink UH36-DUO, Midlevel USB headset Duo, Teams",960
+YL-UH36 MONO,Yealink UH36 Mono headset,"Yealink UH36-MONO, Midlevel USB headset Mono",757
+YL-UH36 MONO TEAMS,Yealink UH36 Mono headset Teams,"Yealink UH36-MONO, Midlevel USB headset Mono, Teams",757
+YL-BT41,Yealink BT41,IP phone Bluetooth USB Dongle  replacing BT40,332
+YL-WF40,Yealink WF40,IP phone Wifi USB Dongle,332
+YL-WF50,Yealink WF50,"Yealink Advanced Wifi Dual band USB Dongle, T41S/T42S/T46S/T48S/T54S",425
+YL-EHS36,Yealink EHS36,Yealink Wireless Headset Adapter,443
+YL-EHS40,Yealink EHS40,Yealink Wireless Headset Adapter,443
+YL-HAN,Yealink Handset ,"Yealink Handset for T2xx, T3xx, T4xx",92
+YL-PSUT21P,Yealink PSU-600. MA,"Compatible With : T21P, T21, T23G",46
+YL-PSUT2X,Yealink PSU-1.2A,"Compatible With :  Yealink T26P, T27P, T22P, T28P, T41P",46
+YL-PSUT4XX,Yealink PSU-Gigabit,"Compatible With:  T29G, T32G,T48G, T42G, T46G, T32G, T38G",120
+YL-CURL,Yealink Curly Cord,Yealink Curly Cord,14
+YL-YDMP 1000,YEA-YDMP-1000,Yealink Device Management Platform Software Package 50 - 1000 devices (on premises),39
+YL-YMCS BP1000,Yealink YMCS- Basic Package <1000,Yealink Management Cloud Service Basic <1000 devices(Cloud), Fee 3 yea 
+YL-YMCS BP5000,Yealink YMCS- Basic Package 1000<5000,Yealink Management Cloud Service Basic 1000<5000 devices(Cloud),50.29
+YL-YMCS BP5000+,Yealink YMCS- Basic Package 5000<,Yealink Management Cloud Service Basic 5000< devices(Cloud),42.74
+YL-YMCS AP1000,Yealink YMCS- Advanced Package <1000,Yealink Management Cloud Service Advanced <1000 devices(Cloud), Fee 3 yea 
+YL-YMCS AP5000,Yealink YMCS- Advanced Package 1000<5000,Yealink Management Cloud Service Advanced 1000<5000 devices(Cloud),98.06
+YL-YMCS AP5000+,Yealink YMCS- Advanced Package 5000<,Yealink Management Cloud Service Advanced 5000< devices(Cloud),80.46
+YL-T56A EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,380
+YL-T58A EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,428
+YL-T40P EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,85
+YL-T40G EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,99
+YL-T41S EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,123
+YL-T42S EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,155
+YL-T46S EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,225
+YL-T48S EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,291
+YL-W52P EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,145
+YL-W52H EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,96
+YL-W53P EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,149
+YL-W53H EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,101
+YL-W60P EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,166
+YL-W56H EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,118
+YL-T21 E2 EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,75
+YL-T21P E2 EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,81
+YL-T23G EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,96
+YL-T27G EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,158
+YL-T29G EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,225
+YL-CP920 EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,476
+YL-CP960 EXT,1 Year Extended Warranty ,1 Year Extended Warranty ,713
+YR-YSCloud Extension,Yeastar Cloud BPX Extension (1 Fee Concurrency with every 4 Extensions purchased),Yeastar Cloud BPX Extension (1 Fee Concurrency with every 4 Extensions purchased),30
+YR-YSCloud Channel,Yeastar Additional Call Concurrency,Yeastar Additional Call Concurrency,30
+YR-YSCloud Rec500,Yeastar Cloud Recording 500 Minutes,Yeastar Cloud Recording 500 Minutes,9
+YR-S20,"Yeastar S20 IP PBX  20user, 10channel","Yeastar S20 IP PBX  20user, 10channel","2,395.00"
+YR-S50,"Yeastar S50 IP PBX  50user, 25channel","Yeastar S50 IP PBX  50user, 25channel","6,495.00"
+YR-S100,"Yeastar S100 IP PBX 100user, 30channel","Yeastar S100 IP PBX 100user, 30channel","7,495.00"
+YR-S300,"Yeastar S300 IP PBX 300user, 60channel","Yeastar S300 IP PBX 300user, 60channel","14,995.00"
+YR-S412,"Yeastar S412 IP PBX  20user, 8channel, 8FXS","Yeastar S412 IP PBX  20user, 8channel, 8FXS","2,990.00"
+YR-K2SOFT,"Yeastar K2 Software - IP PBX 2000user, 500channel","Yeastar K2 Software - IP PBX 2000user, 500channel","121,958.00"
+YR-K2RD,Yeastar K2 Redundancy Software,Yeastar K2 Redundancy Software,"73,189.00"
+YR-K2BILL,Yeastar K2 Billing Application License,Yeastar K2 Billing Application License,"11,959.00"
+YR-K2AM,Yeastar K2 Annual Maintenace (Applicable from Year 2 onwards),Yeastar K2 Annual Maintenace (Applicable from Year 2 onwards),"24,392.00"
+YR-K2AMSRD,Yeastar K2 Annual Maintenace Redundancy (Applicable from Year 2 onwards),Yeastar K2 Annual Maintenace Redundancy (Applicable from Year 2 onwards),"14,638.00"
+YR-K2LITE SOFT,"Yeastar K2LITE Software - IP PBX 1000user, 250channel","Yeastar K2LITE Software - IP PBX 1000user, 250channel","57,379.00"
+YR-K2LITE RD,Yeastar K2LITE Redundancy Software,Yeastar K2LITE Redundancy Software,"34,418.00"
+YR-K2LITE BILL,Yeastar K2LITE Billing Application License,Yeastar K2LITE Billing Application License,"11,959.00"
+YR-K2LITE AM,Yeastar K2LITE Annual Maintenace (Applicable from Year 2 onwards),Yeastar K2LITE Annual Maintenace (Applicable from Year 2 onwards),"11,476.00"
+YR-K2LITE AMSRD,Yeastar K2LITE Annual Maintenace Redundancy (Applicable from Year 2 onwards),Yeastar K2LITE Annual Maintenace Redundancy (Applicable from Year 2 onwards),"6,884.00"
+YR-K2SERV,Yeastar Server for K2/K2LITE,Yeastar Server for K2/K2LITE,"47,836.00"
+YR-K2PSU,Yeastar Server Power Supply,Yeastar Server Power Supply,"57,403.00"
+YR-TG100G,"Yeastar TG100, 1 Port GSM Gateway","Yeastar TG100, 1 Port GSM Gateway","2,153.00"
+YR-TG200G,"Yeastar TG200G, 2 Port GSM Gateway","Yeastar TG200G, 2 Port GSM Gateway","3,827.00"
+YR-TG400G,"Yeastar TG400G, 4 Port GSM Gateway","Yeastar TG400G, 4 Port GSM Gateway","7,175.00"
+YR-TG800G,"Yeastar TG800G, 8 Port GSM Gateway","Yeastar TG800G, 8 Port GSM Gateway","12,916.00"
+YR-TG1600G,"Yeastar TG1600, 16 Port GSM Gateway","Yeastar TG1600, 16 Port GSM Gateway","22,961.00"
+YR-TA100,"Yeastar TA100, 1 Port FXS Gateway","Yeastar TA100, 1 Port FXS Gateway",478
+YR-TA200,"Yeastar TA200, 2 Port FXS Gateway","Yeastar TA200, 2 Port FXS Gateway",622
+YR-TA400,"Yeastar TA400, 4 Port FXS Gateway","Yeastar TA400, 4 Port FXS Gateway","1,695.00"
+YR-TA800,"Yeastar TA800, 8 Port FXS Gateway","Yeastar TA800, 8 Port FXS Gateway","2,495.00"
+YR-TA1600,"Yeastar TA1600, 16 Port FXS Gateway","Yeastar TA1600, 16 Port FXS Gateway","5,695.00"
+YR-TA2400,"Yeastar TA2400, 24 Port FXS Gateway","Yeastar TA2400, 24 Port FXS Gateway","7,582.00"
+YR-TA3200,"Yeastar TA3200, 32 Port FXS Gateway","Yeastar TA3200, 32 Port FXS Gateway","9,256.00"
+YR-TA410,"Yeastar TA410, 4 Port FXO Gateway","Yeastar TA410, 4 Port FXO Gateway","2,535.00"
+YR-TA810,"Yeastar TA800, 8 Port FXO Gateway","Yeastar TA800, 8 Port FXO Gateway","3,946.00"
+YR-TA1610,"Yeastar TA1610, 16 Port FXO Gateway","Yeastar TA1610, 16 Port FXO Gateway","8,300.00"
+YR-TE100,"Yeastar TE100, 1 Port PRI Gateway,  E1/T1/J1","Yeastar TE100, 1 Port PRI Gateway,  E1/T1/J1","8,371.00"
+YR-TE200,"Yeastar TE200, 2 Port PRI Gateway,  E1/T1/J1","Yeastar TE200, 2 Port PRI Gateway,  E1/T1/J1","13,872.00"
+YR-TB200,"Yeastar TB200, 2 Port BRI Gateway","Yeastar TB200, 2 Port BRI Gateway","3,564.00"
+YR-TB400,"Yeastar TB400, 4 Port BRI Gateway","Yeastar TB400, 4 Port BRI Gateway","4,995.00"
+YR-O2,"Yeastar O2 Module, 2 FXO Ports","Yeastar O2 Module, 2 FXO Ports",695
+YR-S2,"Yeastar S2 Module, 2 FXS Ports","Yeastar S2 Module, 2 FXS Ports",695
+YR-LTE E,Yeastar LTE Module with 2 antenna,Yeastar LTE Module with 2 antenna,"3,588.00"
+YR-SO,"Yeastar SO Module, 1 FXS and 1 FXO","Yeastar SO Module, 1 FXS and 1 FXO",933
+YR-GSM,Yeastar GSM Module with antenna,Yeastar GSM Module with antenna,"1,695.00"
+YR-B2,"Yeastar B2 Module, 2 BRI Ports","Yeastar B2 Module, 2 BRI Ports","1,850.00"
+YR-D30,Yeastar D30 Performance Card S100/300,Yeastar D30 Performance Card S100/300,"2,695.00"
+YR-EX08,Yeastar EX08 Expansion Card S100/300,Yeastar EX08 Expansion Card S100/300,725
+YR-EX30,Yeastar EX30 PRI Card S100/S300,Yeastar EX30 PRI Card S100/S300,"5,995.00"
+YR-LCS S20,Linkus Clous Service - S20,Linkus Clous Service - S20,"1,452.00"
+YR-LCS S50,Linkus Clous Service - S50,Linkus Clous Service - S50,"2,479.00"
+YR-LCS S100,Linkus Clous Service - S100,Linkus Clous Service - S100,"4,385.00"
+YR-LCS S300,Linkus Clous Service - S300,Linkus Clous Service - S300,"7,319.00"
+YR-LCS S412,Linkus Clous Service - S412,Linkus Clous Service - S412,"1,452.00"
+YR-LCS K2,Linkus Clous Service - K2,Linkus Clous Service - K2,"19,052.00"
+YR-Billing S20,Yeastar Billing Application License - S20,Yeastar Billing Application License - S20,677
+YR-Billing S50,Yeastar Billing Application License - S50,Yeastar Billing Application License - S50,"1,128.00"
+YR-Billing S100,Yeastar Billing Application License - S100,Yeastar Billing Application License - S100,"2,256.00"
+YR-Billing S300,Yeastar Billing Application License - S300,Yeastar Billing Application License - S300,"4,513.00"
+YR-Billing S412,Yeastar Billing Application License - S412,Yeastar Billing Application License - S412,677
+YR-Char S20,Yeastar Char Integration License - S20 ,Yeastar Char Integration License - S20 ,677
+YR-Char S50,Yeastar Char Integration License - S50 ,Yeastar Char Integration License - S50 ,"1,128.00"
+YR-Char S100,Yeastar Char Integration License - S100 ,Yeastar Char Integration License - S100 ,"2,256.00"
+YR-Char S300,Yeastar Char Integration License - S300 ,Yeastar Char Integration License - S300 ,"4,513.00"
+YR-Char S412,Yeastar Char Integration License - S412 ,Yeastar Char Integration License - S412 ,677
+YR-Hotel S20,Yeastar Hotel Application License - S20,Yeastar Hotel Application License - S20,"1,128.00"
+YR-Hotel S50,Yeastar Hotel Application License - S50,Yeastar Hotel Application License - S50,"3,385.00"
+YR-Hotel S100,Yeastar Hotel Application License - S100,Yeastar Hotel Application License - S100,"4,513.00"
+YR-Hotel S300,Yeastar Hotel Application License - S300,Yeastar Hotel Application License - S300,"6,769.00"
+YR-Hotel S412,Yeastar Hotel Application License - S412,Yeastar Hotel Application License - S412,"1,128.00"
+YR-RMS10,Yeastar Remote Management Base License - Annual 10 PBX,Yeastar Remote Management Base License - Annual 10 PBX,"2,369.00"
+YR-RMSD,Yeastar Remote Management License - Once-off 1 PBX,Yeastar Remote Management License - Once-off 1 PBX,395
+YR-LEVEL 1 ONLINE,Yeastar Level 1 Technical Training Online Only,Yeastar Level 1 Technical Training Online Only,550
+YR-LEVEL 1 TRAINING,Yeastar Level 1 Technical Training,Yeastar Level 1 Technical Training,"1,350.00"
+YR-LEVEL 2 TRAINING,Yeastar Level 2 Technical Training,Yeastar Level 2 Technical Training,"1,650.00"

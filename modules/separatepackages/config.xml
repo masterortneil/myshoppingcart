@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>separatepackages</name>
+    <displayName><![CDATA[On backorder: send available product first]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[Extends &ldquo;send available product first&ldquo; core functionality from PS 1.6 to PS 1.7  It allows customer to split order in two when some products are in stock (shipped first) and some other products are not in stock (shipped when available). Two orders will be created in backoffice with two different statuses depending on payment method.]]></description>
+    <author><![CDATA[inAzerty]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
