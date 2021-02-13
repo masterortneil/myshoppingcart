@@ -67,6 +67,46 @@
         <span class="value">{$value}</span>
       </div>
     {/foreach}
+    <div class="product-line-info">
+
+
+      <div class="label">
+
+
+        {if $product.stock_quantity >= $product.quantity}
+
+
+          <i data-toggle="tooltip" title="{l s='In stock' d='Shop.Theme.Catalog'}" class="material-icons text-success"></i>
+
+
+          <span class="badge d-inline-block badge-success">
+
+
+                {l s='In stock' d='Shop.Theme.Catalog'}
+
+
+            </span>
+
+
+        {/if}
+
+
+        {if $product.stock_quantity < $product.quantity}
+
+
+          <i data-toggle="tooltip" title="{l s='Out of stock' d='Shop.Theme.Catalog'}" class="d-none d-inline align-baseline material-icons text-warning"></i>
+
+
+          <span class="badge d-inline-block badge-warning">{l s='Out of stock'}<br>({($product.stock_quantity > 0)?$product.stock_quantity:'0'} {l s='In stock' d='Shop.Theme.Catalog'})</span>
+
+
+        {/if}
+
+
+      </div>
+
+
+    </div>
 
     {if is_array($product.customizations) && $product.customizations|count}
       <br>
@@ -121,15 +161,15 @@
               <span class="gift-quantity">{$product.quantity}</span>
             {else}
               <input
-                class="js-cart-line-product-quantity"
-                data-down-url="{$product.down_quantity_url}"
-                data-up-url="{$product.up_quantity_url}"
-                data-update-url="{$product.update_quantity_url}"
-                data-product-id="{$product.id_product}"
-                type="number"
-                value="{$product.quantity}"
-                name="product-quantity-spin"
-                min="{$product.minimal_quantity}"
+                      class="js-cart-line-product-quantity"
+                      data-down-url="{$product.down_quantity_url}"
+                      data-up-url="{$product.up_quantity_url}"
+                      data-update-url="{$product.update_quantity_url}"
+                      data-product-id="{$product.id_product}"
+                      type="number"
+                      value="{$product.quantity}"
+                      name="product-quantity-spin"
+                      min="{$product.minimal_quantity}"
               />
             {/if}
           </div>
@@ -149,16 +189,16 @@
       <div class="col-md-2 col-xs-2 text-xs-right">
         <div class="cart-line-product-actions">
           <a
-              class                       = "remove-from-cart"
-              rel                         = "nofollow"
-              href                        = "{$product.remove_from_cart_url}"
-              data-link-action            = "delete-from-cart"
-              data-id-product             = "{$product.id_product|escape:'javascript'}"
-              data-id-product-attribute   = "{$product.id_product_attribute|escape:'javascript'}"
-              data-id-customization   	  = "{$product.id_customization|escape:'javascript'}"
+                  class                       = "remove-from-cart"
+                  rel                         = "nofollow"
+                  href                        = "{$product.remove_from_cart_url}"
+                  data-link-action            = "delete-from-cart"
+                  data-id-product             = "{$product.id_product|escape:'javascript'}"
+                  data-id-product-attribute   = "{$product.id_product_attribute|escape:'javascript'}"
+                  data-id-customization   	  = "{$product.id_customization|escape:'javascript'}"
           >
             {if !isset($product.is_gift) || !$product.is_gift}
-            <i class="material-icons float-xs-left">delete</i>
+              <i class="material-icons float-xs-left">delete</i>
             {/if}
           </a>
 
